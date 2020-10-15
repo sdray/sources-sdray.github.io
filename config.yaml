@@ -1,6 +1,7 @@
 theme: starter-academic
 title: Academic
 baseurl: /
+publishDir: "../sdray.github.io"
 copyright: ''
 enableGitInfo: no
 defaultContentLanguage: en
