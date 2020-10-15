@@ -48,8 +48,11 @@ user_groups:
 - Principal Investigators
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am research scientist at the [CNRS](http://www.cnrs.fr/) based in [Université Lyon 1](https://www.univ-lyon1.fr/) ([Biometry and Evolutionary Biology Lab, UMR 5558](https://lbbe.univ-lyon1.fr/)).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a statistical ecologist (aka biometrician, biostatistician, quantitative ecologist, numerical ecologist, etc.). My work consists in developing novel statistical methods for analyzing biological data with a special emphasis on multivariate analysis and spatial statistics. I am mainly interested in understanding the role of multiple factors (e.g., species traits, environment) that influence the (spatial) structure of ecological communities and control beta diversity.
+
+I am contributor/author of several software (freeware, open source) including the ade4 package for R which provides statistical and graphical tools for the analysis of multivariate data. 
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
