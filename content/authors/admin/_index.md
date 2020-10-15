@@ -1,5 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include community ecology, spatial statistics and multivariate methods.
 education:
   courses:
   - course: PhD in Artificial Intelligence
