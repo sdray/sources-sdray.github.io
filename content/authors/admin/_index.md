@@ -22,7 +22,7 @@ organizations:
   url: http://www.cnrs.fr"
 - name: Université Lyon 1
   url: http://www.univ-lyon1.fr
-role: Professor of Artificial Intelligence
+role: Senior Scientist
 social:
 - icon: envelope
   icon_pack: fas
