@@ -2,21 +2,21 @@
 bio: My research interests include community ecology, spatial statistics and multivariate methods.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Biometry
+    institution: Université Claude Bernard Lyon I
+    year: 2003
+  - course: MSc in Biometry
+    institution: Université Claude Bernard Lyon I
+    year: 1999
+  - course: BSc in Biometry
+    institution: Université Claude Bernard Lyon I
+    year: 1997
 email: ""
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Community Ecology
+- Spatial Statistics
+- Multivariate Analysis
 organizations:
 - name: CNRS
   url: http://www.cnrs.fr"
