@@ -26,19 +26,22 @@ role: Professor of Artificial Intelligence
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: mailto:stephane.dray@univ-lyon1.fr
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/1237260/stephane-dray
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.fr/citations?user=MCqFgksAAAAJ&hl=fr
+- icon: orcid
+  icon_pack: ai
+  link: http://orcid.org/0000-0003-0153-1105
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Stephane_Dray
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/sdray
 superuser: true
 title: Stéphane Dray
 user_groups:
