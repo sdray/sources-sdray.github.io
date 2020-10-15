@@ -18,8 +18,10 @@ interests:
 - Computational Linguistics
 - Information Retrieval
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: CNRS
+  url: http://www.cnrs.fr"
+- name: Université Lyon 1
+  url: http://www.univ-lyon1.fr
 role: Professor of Artificial Intelligence
 social:
 - icon: envelope
