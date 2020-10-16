@@ -55,4 +55,4 @@ I am a statistical ecologist (aka biometrician, biostatistician, quantitative ec
 I am contributor/author of several software (freeware, open source) including the ade4 package for R which provides statistical and graphical tools for the analysis of multivariate data. 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cvdray.pdf" "newtab" >}}CV{{< /staticref >}}.
