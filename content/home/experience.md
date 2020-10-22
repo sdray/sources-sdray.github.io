@@ -25,22 +25,45 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   You can begin a multiline `description` using YAML's `|-`.
 experience:
-- company: GenCoin
-  company_url: ""
-  date_end: ""
-  date_start: "2017-01-01"
-  description: |-
-    Responsibilities include:
-    * Analysing
-    * Modelling
-    * Deploying
-  location: California
-  title: CEO
-- company: University X
-  company_url: ""
-  date_end: "2016-12-31"
-  date_start: "2016-01-01"
-  description: Taught electronic engineering and researched semiconductor physics.
-  location: California
-  title: Professor
+ - title: Senior Research Scientist (CNRS DR2)
+   company: Laboratoire de Biométrie et Biologie Evolutive (LBBE)
+   company_url: http://lbbe.univ-lyon1.fr/
+   location: Lyon, France
+   date_start: 2016-01-01
+   date_end: 
+
+ - title: Research Scientist (CNRS CR1)
+   company: Laboratoire de Biométrie et Biologie Evolutive (LBBE)
+   company_url: http://lbbe.univ-lyon1.fr/
+   location: Lyon, France
+   date_start: 2009-01-01
+   date_end: 2016-01-01
+
+ - title: Research Scientist (CNRS CR2)
+   company: Laboratoire de Biométrie et Biologie Evolutive (LBBE)
+   company_url: http://lbbe.univ-lyon1.fr/
+   location: Lyon, France
+   date_start: 2005-01-01
+   date_end: 2009-01-01
+
+ - title: Post-Doctoral Researcher
+   company: Pierre Legendre's Lab, Département des Sciences Biologiques, Université de Montréal
+   company_url: http://adn.biol.umontreal.ca/~numericalecology/
+   location: Montréal, Canada
+   date_start: 2003-01-01
+   date_end: 2005-01-01
+  
+ - title: Research and Teaching Assistant
+   company: Laboratoire de Biométrie et Biologie Evolutive (LBBE)
+   company_url: http://lbbe.univ-lyon1.fr/
+   location: Lyon, France
+   date_start: 2003-01-01
+   date_end: 2002-01-01
+
+ - title: Research Scholar
+   company: Laboratoire de Biométrie et Biologie Evolutive (LBBE)
+   company_url: http://lbbe.univ-lyon1.fr/
+   location: Lyon, France
+   date_start: 1999-01-01
+   date_end: 2002-01-01
 ---
