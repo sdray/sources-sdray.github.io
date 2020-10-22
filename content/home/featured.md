@@ -12,14 +12,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: Featured Publications
+title: News
 subtitle: ""
 
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: post
   # Choose how much pages you would like to display (0 = all pages)
-  count: 0
+  count: 3
   # Filter on criteria
   filters:
     author: ""
@@ -29,7 +29,7 @@ content:
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
   # Show a "See all" link?
-  link_to_archive: false
+  link_to_archive: true
 design:
   # Choose a view for the listings:
   #   1 = List
