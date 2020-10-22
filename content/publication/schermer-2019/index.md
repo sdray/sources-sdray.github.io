@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T18:41:22.789839Z'
+publishDate: '2020-10-22T19:27:32.515876Z'
 publication_types:
 - '2'
 abstract: Many perennial plants display masting, that is, fruiting with strong interannual

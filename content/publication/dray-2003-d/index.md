@@ -9,9 +9,9 @@ authors:
 - D Chessel
 - J Thioulouse
 tags:
-- '"co-inertie"'
+- '"Co-Inertie"'
 - '"distance"'
-- '"procuste"'
+- '"Procuste"'
 categories: []
 date: '2003-01-01'
 lastmod: 2020-10-22T20:41:08+02:00
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T18:41:08.621805Z'
+publishDate: '2020-10-22T19:27:15.290845Z'
 publication_types:
 - '2'
 abstract: Procrustes analysis is a method for fitting a set of points to another.

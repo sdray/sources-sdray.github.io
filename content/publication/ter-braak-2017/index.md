@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T18:41:24.863519Z'
+publishDate: '2020-10-22T19:27:34.963589Z'
 publication_types:
 - '2'
 abstract: "Statistical testing of trait-environment association from data is a challenge\

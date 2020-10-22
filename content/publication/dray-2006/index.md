@@ -10,8 +10,8 @@ authors:
 - P Legendre
 - P R Peres-Neto
 tags:
-- '"mem"'
-- '"spatial"'
+- '"MEM"'
+- '"Spatial"'
 categories: []
 date: '2006-01-01'
 lastmod: 2020-10-22T20:41:09+02:00
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T18:41:08.934264Z'
+publishDate: '2020-10-22T19:27:15.657945Z'
 publication_types:
 - '2'
 abstract: Spatial structures of ecological communities may originate either from the

@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T18:41:28.568846Z'
+publishDate: '2020-10-22T19:27:38.805263Z'
 publication_types:
 - '2'
 abstract: "Spatial autocorrelation jeopardizes the validity of statistical inference,\

@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T18:41:28.149493Z'
+publishDate: '2020-10-22T19:27:38.443632Z'
 publication_types:
 - '2'
 abstract: Male choosiness for mates is an underexplored mechanism of sexual selection.

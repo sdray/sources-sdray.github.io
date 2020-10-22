@@ -15,12 +15,12 @@ authors:
 - Patricia Gibert
 - Emmanuel Desouhant
 tags:
-- '"circadian rhythm"'
-- '"clock genes"'
-- '"drosophila melanogaster"'
-- '"drosophila suzukii"'
-- '"functional principal component analysis"'
-- '"invasion biology"'
+- '"Circadian rhythm"'
+- '"Clock genes"'
+- '"Drosophila melanogaster"'
+- '"Drosophila suzukii"'
+- '"Functional principal component analysis"'
+- '"Invasion biology"'
 categories: []
 date: '2019-01-01'
 lastmod: 2020-10-22T20:41:22+02:00
@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T18:41:22.084787Z'
+publishDate: '2020-10-22T19:27:31.588880Z'
 publication_types:
 - '2'
 abstract: Phenotypic plasticity may contribute to the invasive success of an alien

@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T18:41:13.065914Z'
+publishDate: '2020-10-22T19:27:21.204743Z'
 publication_types:
 - '2'
 abstract: Animals may anticipate and try to avoid, at some costs, physical encounters

@@ -11,16 +11,16 @@ authors:
 - Stéphane Dray
 - Jason Vleminckx
 tags:
-- '"akaike information criterion (aic)"'
-- '"ecological processes"'
-- '"eigenvector selection"'
-- '"forward selection"'
-- "\"moran's eigenvector maps (mem)\""
-- '"phylogenetic eigenvector regression (pvr)"'
-- '"principal coordinates of neighbour matrices (pcnm)"'
-- '"spatial eigenvector mapping (sevm)"'
-- '"spatial patterns"'
-- '"variation partitioning"'
+- '"Akaike information criterion (AIC)"'
+- '"Ecological processes"'
+- '"Eigenvector selection"'
+- '"Forward selection"'
+- "\"Moran's eigenvector maps (MEM)\""
+- '"Phylogenetic eigenvector regression (PVR)"'
+- '"Principal coordinates of neighbour matrices (PCNM)"'
+- '"Spatial eigenvector mapping (SEVM)"'
+- '"Spatial patterns"'
+- '"Variation partitioning"'
 categories: []
 date: '2018-01-01'
 lastmod: 2020-10-22T20:41:04+02:00
@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T18:41:03.974918Z'
+publishDate: '2020-10-22T19:27:07.527263Z'
 publication_types:
 - '2'
 abstract: 'Eigenvector mapping techniques are widely used by ecologists and evolutionary

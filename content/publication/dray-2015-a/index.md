@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T18:41:12.842441Z'
+publishDate: '2020-10-22T19:27:20.781433Z'
 publication_types:
 - '2'
 abstract: Principal component analysis (PCA) is a standard technique to summarize

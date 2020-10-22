@@ -14,9 +14,9 @@ tags:
 - '"community ecology"'
 - '"fourth-corner analysis"'
 - '"functional ecology"'
-- "\"moran's spectral randomization\""
+- "\"Moran's spectral randomization\""
 - '"null models"'
-- '"type i error"'
+- '"type I error"'
 categories: []
 date: '2018-01-01'
 lastmod: 2020-10-22T20:41:05+02:00
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T18:41:05.054413Z'
+publishDate: '2020-10-22T19:27:08.714539Z'
 publication_types:
 - '2'
 abstract: The fourth-corner analysis aims to quantify and test for relationships between

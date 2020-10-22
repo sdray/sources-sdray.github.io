@@ -11,7 +11,7 @@ authors:
 - Stéphane Dray
 - D Borcard
 tags:
-- '"r2"'
+- '"R2"'
 categories: []
 date: '2006-01-01'
 lastmod: 2020-10-22T20:41:20+02:00
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T18:41:19.964696Z'
+publishDate: '2020-10-22T19:27:29.325052Z'
 publication_types:
 - '2'
 abstract: Establishing relationships between species distributions and environmental

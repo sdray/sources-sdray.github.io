@@ -9,13 +9,13 @@ authors:
 - Petr Šmilauer
 - Stéphane Dray
 tags:
-- '"biplot"'
-- '"canonical correlation analysis"'
-- '"canonical correspondence analysis"'
-- '"community ecology"'
-- '"fourth-corner correlation"'
-- '"multivariate analysis"'
-- '"trait-environment relations"'
+- '"Biplot"'
+- '"Canonical correlation analysis"'
+- '"Canonical correspondence analysis"'
+- '"Community ecology"'
+- '"Fourth-corner correlation"'
+- '"Multivariate analysis"'
+- '"Trait-environment relations"'
 categories: []
 date: '2018-01-01'
 lastmod: 2020-10-22T20:41:25+02:00
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T18:41:25.272952Z'
+publishDate: '2020-10-22T19:27:35.409036Z'
 publication_types:
 - '2'
 abstract: Correspondence analysis with linear external constraints on both the rows

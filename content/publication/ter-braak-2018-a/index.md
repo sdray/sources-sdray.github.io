@@ -11,7 +11,7 @@ authors:
 tags:
 - '"community ecology"'
 - '"community-level test"'
-- '"cwm of traits"'
+- '"CWM of traits"'
 - '"environmental gradients"'
 - '"fourth-corner"'
 - '"functional traits"'
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T18:41:25.685376Z'
+publishDate: '2020-10-22T19:27:35.921568Z'
 publication_types:
 - '2'
 abstract: Question The community weighted means (CWM) approach is an easy way of analyzing

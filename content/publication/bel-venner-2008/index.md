@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T18:41:04.324984Z'
+publishDate: '2020-10-22T19:27:07.776633Z'
 publication_types:
 - '2'
 abstract: "Sexual selection theory traditionally considers choosiness for mates to\

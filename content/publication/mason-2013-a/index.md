@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T18:41:16.463396Z'
+publishDate: '2020-10-22T19:27:25.372581Z'
 publication_types:
 - '2'
 abstract: An understanding of the processes governing natural afforestation over large

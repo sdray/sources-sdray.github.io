@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T18:41:07.276919Z'
+publishDate: '2020-10-22T19:27:12.680501Z'
 publication_types:
 - '2'
 abstract: 'The Loricariinae belong to the Neotropical mailed catfish family Loricariidae,

@@ -61,7 +61,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T18:41:07.614548Z'
+publishDate: '2020-10-22T19:27:13.488791Z'
 publication_types:
 - '2'
 abstract: Earth is home to a remarkable diversity of plant forms and life histories,

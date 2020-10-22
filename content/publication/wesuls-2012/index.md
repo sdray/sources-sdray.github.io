@@ -10,14 +10,14 @@ authors:
 - Jens Oldeland
 - Stéphane Dray
 tags:
-- '"covariables"'
-- '"fourth-corner analysis"'
-- '"namibia"'
-- '"piosphere"'
-- '"plant functional types"'
-- '"savanna"'
-- '"semi-arid rangeland"'
-- '"variation partitioning"'
+- '"Covariables"'
+- '"Fourth-corner analysis"'
+- '"Namibia"'
+- '"Piosphere"'
+- '"Plant functional types"'
+- '"Savanna"'
+- '"Semi-arid rangeland"'
+- '"Variation partitioning"'
 categories: []
 date: '2012-01-01'
 lastmod: 2020-10-22T20:41:29+02:00
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T18:41:29.026889Z'
+publishDate: '2020-10-22T19:27:39.202505Z'
 publication_types:
 - '2'
 abstract: 'Questions: Which plant traits consistently respond to grazing in different

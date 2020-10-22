@@ -14,11 +14,11 @@ authors:
 - G De Wispelaere
 - D Cuisance
 tags:
-- '"epidemiologie"'
-- '"geostatistique"'
-- '"glm"'
-- '"sig"'
-- '"spatial"'
+- '"Epidemiologie"'
+- '"Geostatistique"'
+- '"GLM"'
+- '"SIG"'
+- '"Spatial"'
 categories: []
 date: '2002-01-01'
 lastmod: 2020-10-22T20:41:17+02:00
@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T18:41:16.861316Z'
+publishDate: '2020-10-22T19:27:25.911628Z'
 publication_types:
 - '2'
 abstract: Modelling of the spatial distribution of bovine trypanosomosis prevalence

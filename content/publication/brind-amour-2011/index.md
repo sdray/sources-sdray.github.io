@@ -22,7 +22,7 @@ tags:
 - '"laurentian shield lakes"'
 - '"littoral zone"'
 - '"quebec"'
-- '"rlq"'
+- '"RLQ"'
 - '"spatial scale"'
 - '"three-matrix approach"'
 - '"trait"'
@@ -46,7 +46,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T18:41:05.710108Z'
+publishDate: '2020-10-22T19:27:09.803479Z'
 publication_types:
 - '2'
 abstract: Understanding the relationships between species biological traits and the

@@ -14,10 +14,10 @@ authors:
 tags:
 - '"co-correspondence analysis"'
 - '"co-occurrence network"'
-- '"mamiellophyceae"'
+- '"Mamiellophyceae"'
 - '"microbial eukaryotes"'
 - '"next-generation sequencing"'
-- '"prasinovirus"'
+- '"Prasinovirus"'
 categories: []
 date: '2020-01-01'
 lastmod: 2020-10-22T20:41:03+02:00
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T18:41:03.823774Z'
+publishDate: '2020-10-22T19:27:07.393176Z'
 publication_types:
 - '2'
 abstract: Microbial communities, which drive major ecosystem functions, consist of

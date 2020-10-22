@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T18:41:14.175590Z'
+publishDate: '2020-10-22T19:27:22.973131Z'
 publication_types:
 - '2'
 abstract: Large herbivore populations respond strongly to remotely sensed measures

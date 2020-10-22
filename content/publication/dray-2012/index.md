@@ -43,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T18:41:11.465925Z'
+publishDate: '2020-10-22T19:27:19.121236Z'
 publication_types:
 - '2'
 abstract: Species spatial distributions are the result of population demography, behavioral

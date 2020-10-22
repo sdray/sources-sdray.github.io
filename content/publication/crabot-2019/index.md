@@ -11,12 +11,12 @@ authors:
 - Thibault Datry
 tags:
 - '"distance decay relationships"'
-- '"mantel test"'
-- '"moran spectral randomization"'
+- '"Mantel test"'
+- '"Moran spectral randomization"'
 - '"principal coordinates analysis"'
 - '"spatial autocorrelation"'
 - '"spatially constrained null model"'
-- '"type i error inflation"'
+- '"type I error inflation"'
 categories: []
 date: '2019-01-01'
 lastmod: 2020-10-22T20:41:07+02:00
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T18:41:07.450173Z'
+publishDate: '2020-10-22T19:27:13.072709Z'
 publication_types:
 - '2'
 abstract: Mantel tests are widely used in ecology to assess the significance of the

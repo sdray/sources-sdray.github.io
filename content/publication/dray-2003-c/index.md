@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T18:41:08.278351Z'
+publishDate: '2020-10-22T19:27:14.866000Z'
 publication_types:
 - '2'
 abstract: Ecological studies often require studying the common structure of a pair

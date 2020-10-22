@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T18:41:15.415439Z'
+publishDate: '2020-10-22T19:27:24.127572Z'
 publication_types:
 - '2'
 abstract: 'Question: How do multivariate methods perform in relating species- and

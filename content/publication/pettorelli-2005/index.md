@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T18:41:21.667013Z'
+publishDate: '2020-10-22T19:27:31.217210Z'
 publication_types:
 - '2'
 abstract: 'We aimed to define at a relevant scale the spatial pattern of major vegetation

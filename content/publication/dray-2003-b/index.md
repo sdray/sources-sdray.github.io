@@ -9,9 +9,9 @@ authors:
 - N Pettorelli
 - D Chessel
 tags:
-- '"multivarié"'
-- '"pls"'
-- '"spatial"'
+- '"Multivarié"'
+- '"PLS"'
+- '"Spatial"'
 categories: []
 date: '2003-01-01'
 lastmod: 2020-10-22T20:41:08+02:00
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T18:41:07.922395Z'
+publishDate: '2020-10-22T19:27:14.449349Z'
 publication_types:
 - '2'
 abstract: Classical multivariate analyses are based on matrix algebra and enable the

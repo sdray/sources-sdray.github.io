@@ -16,12 +16,12 @@ authors:
 - Hervé Fritz
 - Marion Valeix
 tags:
-- '"interference competition"'
-- '"large african herbivores"'
-- '"resource quality heterogeneity"'
-- '"semi-arid savanna"'
-- '"spatial aggregation"'
-- '"waterhole scale"'
+- '"Interference competition"'
+- '"Large African herbivores"'
+- '"Resource quality heterogeneity"'
+- '"Semi-arid savanna"'
+- '"Spatial aggregation"'
+- '"Waterhole scale"'
 categories: []
 date: '2020-01-01'
 lastmod: 2020-10-22T20:41:13+02:00
@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T18:41:13.508239Z'
+publishDate: '2020-10-22T19:27:21.609536Z'
 publication_types:
 - '2'
 abstract: ''

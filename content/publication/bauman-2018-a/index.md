@@ -14,14 +14,14 @@ tags:
 - '"community simulation"'
 - '"connection scheme"'
 - '"inference of ecological processes from spatial pat"'
-- "\"moran's eigenvector maps (mem)\""
+- "\"Moran's eigenvector maps (MEM)\""
 - '"multiscale spatial patterns"'
 - '"optimization"'
-- '"principal coordinates of neighbor matrices (pcnm)"'
+- '"principal coordinates of neighbor matrices (PCNM)"'
 - '"spatial autocorrelation"'
-- '"spatial eigenvector mapping (sevm)"'
+- '"spatial eigenvector mapping (SEVM)"'
 - '"spatial weighting matrix"'
-- '"type i error rate inflation"'
+- '"type I error rate inflation"'
 categories: []
 date: '2018-01-01'
 lastmod: 2020-10-22T20:41:04+02:00
@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T18:41:04.164942Z'
+publishDate: '2020-10-22T19:27:07.643661Z'
 publication_types:
 - '2'
 abstract: Abstract Eigenvector-mapping methods such as Moran's eigenvector maps (MEM)
