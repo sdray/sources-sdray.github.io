@@ -2,6 +2,9 @@
 bio: My research interests include community ecology, spatial statistics and multivariate methods.
 education:
   courses:
+  - course: Habilitation
+    institution: Université Claude Bernard Lyon I
+    year: 2016  
   - course: PhD in Biometry
     institution: Université Claude Bernard Lyon I
     year: 2003
