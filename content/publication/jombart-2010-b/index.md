@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Une approche multivariée pour la recherche de structures phylogń'íques dans
-  les donn'e ́biologiques
+title: Une approche multivariée pour la recherche de structures phylogénétiques dans les données biologiques
 subtitle: ''
 summary: ''
 authors:

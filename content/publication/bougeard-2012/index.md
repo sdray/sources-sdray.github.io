@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Analyse de (K+1) tableaux avec le logiciel ade4. Application en épidḿiologie
+title: Analyse de (K+1) tableaux avec le logiciel ade4. Application en épidémiologie
 subtitle: ''
 summary: ''
 authors:

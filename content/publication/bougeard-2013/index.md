@@ -1,9 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Développement de mt́hodes de r'ŕession multibloc pour le traitement des donn'e
-  ́d''eṕ'emiógie v'et'ínaé. Des besoins statistiques des 'epid'íologt́es au d'eveloppeńt
-  d'un package R
+title: Développement de méthodes de régression multibloc pour le traitement des données d’épidémiologie vétérinaire. Des besoins statistiques des épidémiologistes au développement d’un package R
 subtitle: ''
 summary: ''
 authors:

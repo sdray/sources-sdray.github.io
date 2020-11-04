@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Analyses multivariées et mesures d'autocorrĺation spatiale pour l'analyse des
-  assemblages d'espèces
+title: Analyses multivariées et mesures d'autocorrélation spatiale pour l'analyse des assemblages d'espèces
 subtitle: ''
 summary: ''
 authors:

@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Utilisation des listes d'occurrences spécifiques spatialisés en 'ólogie et
-  biog'eŕaphie
+title: Utilisation des listes d'occurrences spécifiques spatialisées en écologie et biogéographie
 subtitle: ''
 summary: ''
 authors:

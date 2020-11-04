@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Eléments d'interface entre analyses multivariés, systèmes d'information g'ǵraphique
-  et observations 'eĺogiques
+title: Eléments d'interface entre analyses multivariées, systèmes d'information géographique et observations écologiques
 subtitle: ''
 summary: ''
 authors:

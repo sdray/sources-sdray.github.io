@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Analyse spatialisée de donnés 'ólogiques multivari'e
+title: Analyse spatialisée de données écologiques multivariées
 subtitle: ''
 summary: ''
 authors:

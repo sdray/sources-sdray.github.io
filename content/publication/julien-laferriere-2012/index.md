@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Visualisation de données multivariés: r'ḿpl'eńtation des fonctionnalit'esŕaphiques\
-  \ de la librairie ade4"
+title: "Visualisation de données multivariées: réimplémentation des fonctionnalités graphiques de la librairie ade4"
 subtitle: ''
 summary: ''
 authors:

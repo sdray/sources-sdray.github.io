@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "adegraphics : un package pour la représentation et l'analyse de donnés multivari'ś"
+title: "adegraphics : un package pour la représentation et l'analyse de données multivariées"
 subtitle: ''
 summary: ''
 authors:

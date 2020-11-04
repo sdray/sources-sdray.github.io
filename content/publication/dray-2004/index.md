@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Nouvelles méthodes d'analyse spatiale multivarié de donn'ś incomplètes
+title: Nouvelles méthodes d'analyse spatiale multivariée de données incomplètes
 subtitle: ''
 summary: ''
 authors:

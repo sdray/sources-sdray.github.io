@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Les Harttiini (Siluriformes, Loricariidae) des Guyanes : phylogénie et v́olution
-  des formes ou variation sur un même thème.'
+title: 'Les Harttiini (Siluriformes, Loricariidae) des Guyanes : phylogénie et évolution des formes ou variation sur un même thème'
 subtitle: ''
 summary: ''
 authors:

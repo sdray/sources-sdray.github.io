@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Analyse spatiale multi-échelles de donnés 'ólogiques avec adespatial
+title: Analyse spatiale multi-échelles de données écologiques avec adespatial
 subtitle: ''
 summary: ''
 authors:

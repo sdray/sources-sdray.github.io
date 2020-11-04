@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Analyse des structures spatiales multivariées en ̧́ologie des communaut' ́avec
+title: Analyse des structures spatiales multivariées en écologie des communautés avec
   le package adespatial
 subtitle: ''
 summary: ''

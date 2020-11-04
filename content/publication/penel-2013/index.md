@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Un site web d'enseignement R automatisé et à gestion partagé
+title: Un site web d'enseignement R automatisé et à gestion partagée
 subtitle: ''
 summary: ''
 authors:

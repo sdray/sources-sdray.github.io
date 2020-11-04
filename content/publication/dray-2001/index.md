@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Systèmes d'information géographique : une application  ̀la modĺisation d'une\
-  \ maladie `t̀ransmission vectorielle au Burkina Faso"
+title: "Systèmes d'information géographique : une application à la modélisation d'une maladie à transmission vectorielle au Burkina Faso"
 subtitle: ''
 summary: ''
 authors:

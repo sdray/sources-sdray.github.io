@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: De la biologie à l'algb̀re linéaire ... en passant par R. Expŕimenter la notion
-  de projection
+title: De la biologie à l'algèbre linéaire ... en passant par R. Expérimenter la notion de projection
 subtitle: ''
 summary: ''
 authors:

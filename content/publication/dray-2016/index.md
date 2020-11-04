@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Environnement, traits, espace et phylogénie : intǵrer des contraintes dans\
-  \ l'analyse d'un tableau 'ólogique"
+title: "Environnement, traits, espace et phylogénie intégrer des contraintes dans l’analyse d’un tableau écologique"
 subtitle: ''
 summary: ''
 authors:

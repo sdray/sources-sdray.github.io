@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Analyse morphologique et phylogént́ique de la sous famille des Loricariinae
+title: Analyse morphologique et phylogénétique de la sous famille des Loricariinae
   (Siluriformes, Loricariidae)
 subtitle: ''
 summary: ''

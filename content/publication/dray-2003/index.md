@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Cartographie et analyse de données multivariés
+title: Cartographie et analyse de données multivariées
 subtitle: ''
 summary: ''
 authors:
@@ -30,10 +30,10 @@ projects: []
 publishDate: '2020-11-04T14:23:17.925064Z'
 publication_types:
 - '0'
-abstract: L'identification de structures spatiales induisant plusieurs variables est
-  une problématique ŗ́urrente dans de nombreux domaines d'application. Cet article
-  pr'énte quelques aspects permettant la prise en compte de l'espace lors de l'analyse
-  de donn'e ́multivari'ee ́Une illustration bas'ee ŕ des donn'ees ćio-'econoq́ues
-  est propos'ee.
+abstract: L’identification de structures spatiales induisant plusieurs variables
+    est une problématique récurrente dans de nombreux domaines d’application.
+    Cet article présente quelques aspects permettant la prise en compte
+    de l’espace lors de l’analyse de données multivariées. Une illustration
+    basée sur des données socio-économiques est proposée.
 publication: "*Institut d'Analyse Géographique*"
 ---

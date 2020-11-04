@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: '\"Reserve effect\" on the space use of game mammals: the case of wild boar'
+title: '"Reserve effect" on the space use of game mammals: the case of wild boar'
 subtitle: ''
 summary: ''
 authors:

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Développements mt́hodologiques autour de l'analyse de donn'ś 'eĺogiques
+title: Développements méthodologiques autour de l'analyse de données écologiques
 subtitle: ''
 summary: ''
 authors:

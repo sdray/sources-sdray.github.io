@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "L'ordination des listes d'occurrences : quand l'analyse canonique des correspondances\
-  \ est une analyse canonique"
+title: "L'ordination des listes d'occurrences : quand l'analyse canonique des correspondances est une analyse canonique"
 subtitle: ''
 summary: ''
 authors:

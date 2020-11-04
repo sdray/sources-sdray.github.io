@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Couplage de données issues de deux plans d'̧́hantillonnage distincts d'un même
-  espace
+title: Couplage de données issues de deux plans d'échantillonnage distincts d'un même espace
 subtitle: ''
 summary: ''
 authors:
