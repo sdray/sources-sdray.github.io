@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Couplage des données de biodiversit ́: prise en compte de l'originalit'd́es\
-  \ structures de donn'e"
+title: "Couplage des données de biodiversité : prise en compte de l’originalité des structures de données"
 subtitle: ''
 summary: ''
 authors:
