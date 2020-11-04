@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Analyzing Spatial Multivariate Structures
+title: Analyzing spatial multivariate structures
 subtitle: ''
 summary: ''
 authors:
@@ -27,10 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:06.291964Z'
+publishDate: '2020-11-04T14:23:30.819448Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*International Conference on Correspondence Analysis and Related Methods
-  - CARME*'
+publication: ''
 ---

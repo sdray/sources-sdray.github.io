@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Spatial Distribution of a Large Herbivore Community at Waterholes: An Assessment
-  of Its Stability over Years in Hwange National Park, Zimbabwe'
+title: 'Spatial distribution of a large herbivore community at waterholes: An assessment
+  of its stability over years in Hwange National Park, Zimbabwe'
 subtitle: ''
 summary: ''
 authors:
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:10.470185Z'
+publishDate: '2020-11-04T14:23:07.770052Z'
 publication_types:
 - '2'
 abstract: The spatial structuring of populations or communities is an important driver

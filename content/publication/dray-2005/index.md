@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Spatial Modeling: A Comprehensive Framework for Distance-Based Eigenvector
-  Maps (DBEM)'
+title: 'Spatial modeling: a comprehensive framework for distance-based eigenvector
+  maps (DBEM)'
 subtitle: ''
 summary: ''
 authors:
@@ -30,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:05.260792Z'
+publishDate: '2020-11-04T14:23:23.067533Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*90th Annual Meeting of ESA*'
+publication: ''
 ---

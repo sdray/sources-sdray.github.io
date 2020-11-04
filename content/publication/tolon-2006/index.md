@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Impact of Hunting Activities on the Spatial Behaviour of the Wild Boar: Attractiveness
-  of Safe Areas'
+title: 'Impact of hunting activities on the spatial behaviour of the wild boar: attractiveness
+  of safe areas'
 subtitle: ''
 summary: ''
 authors:
@@ -33,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:11.035620Z'
+publishDate: '2020-11-04T14:24:15.482963Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*VIth International Symposium on Wild Boar*'
+publication: ''
 ---

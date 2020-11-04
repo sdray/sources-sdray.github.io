@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: An Integrated Web Server and R Package for Data Sharing and Reproducible Research
-  in Ecology
+title: An integrated web server and R package for data sharing and reproducible research
+  in ecology
 subtitle: ''
 summary: ''
 authors:
 - Stéphane Dray
 tags: []
 categories: []
-date: '2014-01-01'
+date: '2014-10-01'
 lastmod: 2020-10-23T13:28:07+02:00
 featured: false
 draft: false
@@ -28,9 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:07.222570Z'
+publishDate: '2020-11-04T14:23:37.663213Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: "*Séminaire Interne de l'UMR 5558, 28 October*"
+publication: ''
 ---

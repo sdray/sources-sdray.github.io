@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Analyzing or Explaining Beta Diversity? Comment.
+title: Analyzing or explaining beta diversity? Comment.
 subtitle: ''
 summary: ''
 authors:
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:28.945810Z'
+publishDate: '2020-11-04T14:24:00.487286Z'
 publication_types:
 - '2'
 abstract: ''

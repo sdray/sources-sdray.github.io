@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Testing the Mantel Statistic with a Spatially-Constrained Permutation Procedure
+title: Testing the Mantel statistic with a spatially-constrained permutation procedure
 subtitle: ''
 summary: ''
 authors:
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:13.072709Z'
+publishDate: '2020-11-04T14:23:14.001224Z'
 publication_types:
 - '2'
 abstract: Mantel tests are widely used in ecology to assess the significance of the

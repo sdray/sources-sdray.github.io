@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Interactive Multivariate Data Analysis in R with the Ade4 and ade4TkGUI Packages
+title: Interactive multivariate data analysis in R with the ade4 and ade4TkGUI packages
 subtitle: ''
 summary: ''
 authors:
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:36.339966Z'
+publishDate: '2020-11-04T14:24:13.528429Z'
 publication_types:
 - '2'
 abstract: ade4 is a multivariate data analysis package for the R statistical environment,

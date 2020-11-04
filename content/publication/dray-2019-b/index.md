@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Portail Web Pour Soumettre, Formater et Partager Des Jeux de Données Dans R
+title: Portail web pour soumettre, formater et partager des jeux de données dans R
 subtitle: ''
 summary: ''
 authors:
 - Stéphane Dray
 tags: []
 categories: []
-date: '2019-01-01'
+date: '2019-05-01'
 lastmod: 2020-10-23T13:28:08+02:00
 featured: false
 draft: false
@@ -27,9 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:08.275315Z'
+publishDate: '2020-11-04T14:23:43.369415Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*Journée Du Rśeau ARAMIS, 23 May*'
+publication: ''
 ---

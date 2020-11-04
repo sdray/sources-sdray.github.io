@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Analyses Multivariées et Mesures d'autocorrĺation Spatiale Pour l'analyse Des
-  Assemblages d'espèces
+title: Analyses multivariées et mesures d'autocorrĺation spatiale pour l'analyse des
+  assemblages d'espèces
 subtitle: ''
 summary: ''
 authors:
@@ -30,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:05.843159Z'
+publishDate: '2020-11-04T14:23:29.167914Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*Ecologie 2010*'
+publication: ''
 ---

@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Assessing Species and Community Functional Responses to Environmental Gradients:
-  Which Multivariate Methods?'
+title: 'Assessing species and community functional responses to environmental gradients:
+  which multivariate methods?'
 subtitle: ''
 summary: ''
 authors:
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:24.127572Z'
+publishDate: '2020-11-04T14:23:51.586853Z'
 publication_types:
 - '2'
 abstract: 'Question: How do multivariate methods perform in relating species- and

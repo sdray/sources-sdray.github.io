@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Finding Essential Scales of Spatial Variation in Ecological Data: A Multivariate
-  Approach'
+title: 'Finding essential scales of spatial variation in ecological data: a multivariate
+  approach'
 subtitle: ''
 summary: ''
 authors:
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:23.333694Z'
+publishDate: '2020-11-04T14:23:49.158553Z'
 publication_types:
 - '2'
 abstract: "The identification of spatial structures is a key step in understanding\

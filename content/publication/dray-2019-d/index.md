@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Analyse Des Structures Spatiales Multivariées En ̧́ologie Des Communaut' ́Avec
-  Le Package Adespatial
+title: Analyse des structures spatiales multivariées en ̧́ologie des communaut' ́avec
+  le package adespatial
 subtitle: ''
 summary: ''
 authors:
@@ -28,9 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:08.717292Z'
+publishDate: '2020-11-04T14:23:44.640447Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*JIEM*'
+publication: ''
 ---

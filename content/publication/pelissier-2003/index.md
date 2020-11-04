@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Consistency between Ordination Techniques and Diversity Measurements: Two
-  Alternative Strategies for Species Occurrence Data'
+title: 'Consistency between ordination techniques and diversity measurements: two
+  alternative strategies for species occurrence data'
 subtitle: ''
 summary: ''
 authors:
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:28.544187Z'
+publishDate: '2020-11-04T14:23:59.794784Z'
 publication_types:
 - '2'
 abstract: Both the ordination of taxonomic tables and the measurements of species

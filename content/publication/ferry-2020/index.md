@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Heterogeneity of Water Physico-Chemical Characteristics in Artificially Pumped
-  Waterholes: Do African Herbivores Drink at the Same Locations and Does It Lead to
-  Interference Competition?'
+title: 'Heterogeneity of water physico-chemical characteristics in artificially pumped
+  waterholes: do African herbivores drink at the same locations and does it lead to
+  interference competition?'
 subtitle: ''
 summary: ''
 authors:
@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:21.609536Z'
+publishDate: '2020-11-04T14:23:46.698107Z'
 publication_types:
 - '2'
 abstract: ''

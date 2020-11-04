@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Principal Component Analysis with Missing Values: A Comparative Survey of
-  Methods'
+title: 'Principal component analysis with missing values: a comparative survey of
+  methods'
 subtitle: ''
 summary: ''
 authors:
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:20.781433Z'
+publishDate: '2020-11-04T14:23:38.978705Z'
 publication_types:
 - '2'
 abstract: Principal component analysis (PCA) is a standard technique to summarize

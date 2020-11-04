@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Phylogeny and Evolution of Shapes: A New Approach to Predict Phylogenetic
-  Positions of Missing Taxa'
+title: 'Phylogeny and evolution of shapes: a new approach to predict phylogenetic
+  positions of missing taxa'
 subtitle: ''
 summary: ''
 authors:
@@ -33,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:04.079560Z'
+publishDate: '2020-11-04T14:23:11.232956Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*Symposium de Morphométrie et Evolution Des Formes*'
+publication: ''
 ---

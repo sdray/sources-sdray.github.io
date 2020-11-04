@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Adegraphics: An S4 Lattice-Based Package for the Representation of Multivariate
-  Data'
+title: 'adegraphics: an S4 lattice-based package for the representation of multivariate
+  data'
 subtitle: ''
 summary: ''
 authors:
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:33.357001Z'
+publishDate: '2020-11-04T14:24:09.444698Z'
 publication_types:
 - '2'
 abstract: The ade4 package provides tools for multivariate analyses. Whereas new statistical

@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Couplage de Données Issues de Deux Plans d'̧́hantillonnage Distincts d'un Même
-  Espace
+title: Couplage de données issues de deux plans d'̧́hantillonnage distincts d'un même
+  espace
 subtitle: ''
 summary: ''
 authors:
@@ -31,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:05.006613Z'
+publishDate: '2020-11-04T14:23:21.116843Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*XXXVèmes Journées de Statistiques*'
+publication: ''
 ---

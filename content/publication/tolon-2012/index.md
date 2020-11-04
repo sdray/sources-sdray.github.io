@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Predator-Prey Spatial Game as a Tool to Understand the Effects of Protected
-  Areas on Harvester-Wildlife Interactions
+title: Predator-prey spatial game as a tool to understand the effects of protected
+  areas on harvester-wildlife interactions
 subtitle: ''
 summary: ''
 authors:
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:37.624342Z'
+publishDate: '2020-11-04T14:24:17.583901Z'
 publication_types:
 - '2'
 abstract: No-take reserves are sometimes implemented for sustainable population harvesting

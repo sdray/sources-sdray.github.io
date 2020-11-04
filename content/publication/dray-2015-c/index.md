@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: The Adephylo Package
+title: The adephylo package
 subtitle: ''
 summary: ''
 authors:
 - Stéphane Dray
 tags: []
 categories: []
-date: '2015-01-01'
+date: '2015-04-01'
 lastmod: 2020-10-23T13:28:07+02:00
 featured: false
 draft: false
@@ -27,9 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:07.622540Z'
+publishDate: '2020-11-04T14:23:40.314063Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*Theories and Methods in Spatial Community Modelling, 21-24 April*'
+publication: ''
 ---

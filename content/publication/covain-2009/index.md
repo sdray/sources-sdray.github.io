@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Extracting Phylogenetic Signal in Morphometric Data to Complete Molecular
-  Phylogenies: A Case Study on Harttiini (Siluriformes, Loricariidae) from the Guianas'
+title: 'Extracting phylogenetic signal in morphometric data to complete molecular
+  phylogenies: a case study on Harttiini (Siluriformes, Loricariidae) from the Guianas'
 subtitle: ''
 summary: ''
 authors:
@@ -33,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:03.852712Z'
+publishDate: '2020-11-04T14:23:10.659823Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*Evolutionary Biology Meeting*'
+publication: ''
 ---

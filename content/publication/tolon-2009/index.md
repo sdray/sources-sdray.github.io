@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Responding to Spatial and Temporal Variations in Predation Risk: Space Use
-  of a Game Species in a Changing Landscape of Fear'
+title: 'Responding to spatial and temporal variations in predation risk: space use
+  of a game species in a changing landscape of fear'
 subtitle: ''
 summary: ''
 authors:
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:37.125833Z'
+publishDate: '2020-11-04T14:24:16.831723Z'
 publication_types:
 - '2'
 abstract: Predators generate a \"landscape of fear\" within which prey can minimize

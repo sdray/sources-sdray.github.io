@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'The Ade4 Package - II: Two-Table and K-Table Methods'
+title: 'The ade4 package - II: Two-table and K-table methods'
 subtitle: ''
 summary: ''
 authors:
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:16.304191Z'
+publishDate: '2020-11-04T14:23:25.471413Z'
 publication_types:
 - '2'
 abstract: ''

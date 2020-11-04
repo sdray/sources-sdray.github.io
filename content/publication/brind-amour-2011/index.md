@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Relationships between Species Feeding Traits and Environmental Conditions
-  in Fish Communities: A Three-Matrix Approach'
+title: 'Relationships between species feeding traits and environmental conditions
+  in fish communities: a three-matrix approach'
 subtitle: ''
 summary: ''
 authors:
@@ -46,7 +46,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:09.803479Z'
+publishDate: '2020-11-04T14:23:06.752363Z'
 publication_types:
 - '2'
 abstract: Understanding the relationships between species biological traits and the

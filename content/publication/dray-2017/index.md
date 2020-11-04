@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Environment, Traits, Space and Phylogeny: Integrating Constraints in the Analysis
-  of Ecological Data Tables'
+title: 'Environment, traits, space and phylogeny: integrating constraints in the analysis
+  of ecological data tables'
 subtitle: ''
 summary: ''
 authors:
@@ -28,9 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:07.776772Z'
+publishDate: '2020-11-04T14:23:41.505649Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*Mathematical and Computational Evolutionary Biology Conference*'
+publication: ''
 ---

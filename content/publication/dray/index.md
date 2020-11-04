@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Couplage Des Données de Biodiversit ́: Prise En Compte de l'originalit'D́es\
-  \ Structures de Donn'e"
+title: "Couplage des données de biodiversit ́: prise en compte de l'originalit'd́es\
+  \ structures de donn'e"
 subtitle: ''
 summary: ''
 authors:
 - Stéphane Dray
 tags: []
 categories: []
-date: '2017-01-01'
+date: '2017-12-01'
 lastmod: 2020-10-23T13:28:04+02:00
 featured: false
 draft: false
@@ -28,9 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:04.357528Z'
+publishDate: '2020-11-04T14:23:15.146000Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*Ecoscope, Fondation Pour La Recherche Sur La Biodiversité, 12 December*'
+publication: ''
 ---

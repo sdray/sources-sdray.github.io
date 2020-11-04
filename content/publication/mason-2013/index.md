@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A Guide for Using Functional Diversity Indices to Reveal Changes in Assembly
-  Processes along Ecological Gradients
+title: A guide for using functional diversity indices to reveal changes in assembly
+  processes along ecological gradients
 subtitle: ''
 summary: ''
 authors:
@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:24.937119Z'
+publishDate: '2020-11-04T14:23:53.969179Z'
 publication_types:
 - '2'
 abstract: 'Question: Which functional diversity indices have the power to reveal changes

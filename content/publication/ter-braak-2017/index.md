@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A Critical Issue in Model-Based Inference for Studying Trait-Based Community
-  Assembly and a Solution
+title: A critical issue in model-based inference for studying trait-based community
+  assembly and a solution
 subtitle: ''
 summary: ''
 authors:
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:34.963589Z'
+publishDate: '2020-11-04T14:24:11.435948Z'
 publication_types:
 - '2'
 abstract: "Statistical testing of trait-environment association from data is a challenge\

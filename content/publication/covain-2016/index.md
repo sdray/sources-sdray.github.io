@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Molecular Phylogeny of the Highly Diversified Catfish Subfamily Loricariinae
-  (Siluriformes, Loricariidae) Reveals Incongruences with Morphological Classification
+title: Molecular phylogeny of the highly diversified catfish subfamily Loricariinae
+  (Siluriformes, Loricariidae) reveals incongruences with morphological classification
 subtitle: ''
 summary: ''
 authors:
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:12.680501Z'
+publishDate: '2020-11-04T14:23:13.396587Z'
 publication_types:
 - '2'
 abstract: 'The Loricariinae belong to the Neotropical mailed catfish family Loricariidae,

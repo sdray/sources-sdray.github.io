@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Phenotypic Plasticity in the Invasive Pest Drosophila Suzukii: Activity Rhythms
-  and Gene Expression in Response to Temperature'
+title: 'Phenotypic plasticity in the invasive pest Drosophila suzukii: Activity rhythms
+  and gene expression in response to temperature'
 subtitle: ''
 summary: ''
 authors:
@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:31.588880Z'
+publishDate: '2020-11-04T14:24:05.947650Z'
 publication_types:
 - '2'
 abstract: Phenotypic plasticity may contribute to the invasive success of an alien

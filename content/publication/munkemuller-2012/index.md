@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: How to Measure and Test Phylogenetic Signal
+title: How to measure and test phylogenetic signal
 subtitle: ''
 summary: ''
 authors:
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:27.269318Z'
+publishDate: '2020-11-04T14:23:57.896537Z'
 publication_types:
 - '2'
 abstract: 1. Phylogenetic signal is the tendency of related species to resemble each

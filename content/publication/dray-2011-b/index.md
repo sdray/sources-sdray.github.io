@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Revisiting Guerry's Data: Introducing Spatial Constraints in Multivariate\
-  \ Analysis"
+title: "Revisiting Guerry's data: introducing spatial constraints in multivariate\
+  \ analysis"
 subtitle: ''
 summary: ''
 authors:
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:18.685753Z'
+publishDate: '2020-11-04T14:23:32.202677Z'
 publication_types:
 - '2'
 abstract: 'Standard multivariate analysis methods aim to identify and summarize the

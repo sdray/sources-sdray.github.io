@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: The Distribution of Preferred Plant Species in Spring Determines Spatial Variation
-  in the Body Mass of Roe Deer Fawns in Winter
+title: The distribution of preferred plant species in spring determines spatial variation
+  in the body mass of roe deer fawns in winter
 subtitle: ''
 summary: ''
 authors:
@@ -33,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:10.290121Z'
+publishDate: '2020-11-04T14:24:04.057453Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*5th International Deer Biology Congress*'
+publication: ''
 ---

@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Développement de Mt́hodes de R'ŕession Multibloc Pour Le Traitement Des Donn'e
-  ́d''eṕ'emiógie V'et'ínaé. Des Besoins Statistiques Des 'Epid'íologt́es Au D'eveloppeńt
-  d'un Package R
+title: Développement de mt́hodes de r'ŕession multibloc pour le traitement des donn'e
+  ́d''eṕ'emiógie v'et'ínaé. Des besoins statistiques des 'epid'íologt́es au d'eveloppeńt
+  d'un package R
 subtitle: ''
 summary: ''
 authors:
@@ -34,10 +34,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:03.122859Z'
+publishDate: '2020-11-04T14:23:02.791882Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: "*Journées de l'association Pour l't́ude de l''íd'eólogie Des Maladies\
-  \ Animales*"
+publication: ''
 ---

@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Corrigendum to \"Assessing Phylogenetic Dependence of Morphological Traits
-  Using Co-Inertia Prior to Investigate Character Evolution in Loricariinae Catfishes\"
-  Mol. Phylogenet. Evol. 46 (2008) 986-1002 (DOI:10.1016/j.Ympev.2007.12.015)
+title: Corrigendum to \"Assessing phylogenetic dependence of morphological traits
+  using co-inertia prior to investigate character evolution in Loricariinae catfishes\"
+  Mol. Phylogenet. Evol. 46 (2008) 986-1002 (DOI:10.1016/j.ympev.2007.12.015)
 subtitle: ''
 summary: ''
 authors:
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:11.753496Z'
+publishDate: '2020-11-04T14:23:12.260953Z'
 publication_types:
 - '2'
 abstract: ''

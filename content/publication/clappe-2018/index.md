@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Beyond Neutrality: Disentangling the Effects of Species Sorting and Spurious
-  Correlations in Community Analysis'
+title: 'Beyond neutrality: disentangling the effects of species sorting and spurious
+  correlations in community analysis'
 subtitle: ''
 summary: ''
 authors:
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:10.818984Z'
+publishDate: '2020-11-04T14:23:08.303778Z'
 publication_types:
 - '2'
 abstract: The methods of direct gradient analysis and variation partitioning are the

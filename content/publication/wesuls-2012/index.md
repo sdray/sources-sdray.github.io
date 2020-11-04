@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Disentangling Plant Trait Responses to Livestock Grazing from Spatio-Temporal
-  Variation: The Partial RLQ Approach'
+title: 'Disentangling plant trait responses to livestock grazing from spatio-temporal
+  variation: the partial RLQ approach'
 subtitle: ''
 summary: ''
 authors:
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:39.202505Z'
+publishDate: '2020-11-04T14:24:20.314023Z'
 publication_types:
 - '2'
 abstract: 'Questions: Which plant traits consistently respond to grazing in different

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: (Some Elements of) Spatial Ecological Data Analysis
+title: (Some elements of) Spatial ecological data analysis
 subtitle: ''
 summary: ''
 authors:
@@ -27,9 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:06.036642Z'
+publishDate: '2020-11-04T14:23:29.737726Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*Séminaire Du DIPEE, 27 January*'
+publication: ''
 ---

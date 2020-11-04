@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Does Local Habitat Fragmentation Affect Large-Scale Distributions? The Case
-  of a Specialist Grassland Bird
+title: Does local habitat fragmentation affect large-scale distributions? The case
+  of a specialist grassland bird
 subtitle: ''
 summary: ''
 authors:
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:32.070909Z'
+publishDate: '2020-11-04T14:24:06.614677Z'
 publication_types:
 - '2'
 abstract: 'Aim: Although the negative effects of habitat fragmentation have been widely

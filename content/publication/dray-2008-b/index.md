@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'On the Number of Principal Components: A Test of Dimensionality Based on Measurements
-  of Similarity between Matrices'
+title: 'On the number of principal components: A test of dimensionality based on measurements
+  of similarity between matrices'
 subtitle: ''
 summary: ''
 authors:
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:17.399918Z'
+publishDate: '2020-11-04T14:23:27.279866Z'
 publication_types:
 - '2'
 abstract: An important problem in principal component analysis (PCA) is the estimation

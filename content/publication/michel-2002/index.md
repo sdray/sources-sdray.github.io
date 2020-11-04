@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Modelling Bovine Trypanosomosis Spatial Distribution by GIS in an Agro-Pastoral
-  Zone of Burkina Faso
+title: Modelling bovine trypanosomosis spatial distribution by GIS in an agro-pastoral
+  zone of Burkina Faso
 subtitle: ''
 summary: ''
 authors:
@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:25.911628Z'
+publishDate: '2020-11-04T14:23:55.850753Z'
 publication_types:
 - '2'
 abstract: Modelling of the spatial distribution of bovine trypanosomosis prevalence

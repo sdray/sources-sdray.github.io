@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Diversity Indices for Ecological Networks: A Unifying Framework Using Hill
-  Numbers'
+title: 'Diversity indices for ecological networks: a unifying framework using Hill
+  numbers'
 subtitle: ''
 summary: ''
 authors:
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:27.635954Z'
+publishDate: '2020-11-04T14:23:58.556560Z'
 publication_types:
 - '2'
 abstract: Describing how ecological interactions change over space and time and how

@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Assessing the Effects of Spatial Contingency and Environmental Filtering on
-  Metacommunity Phylogenetics
+title: Assessing the effects of spatial contingency and environmental filtering on
+  metacommunity phylogenetics
 subtitle: ''
 summary: ''
 authors:
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:29.832266Z'
+publishDate: '2020-11-04T14:24:02.830598Z'
 publication_types:
 - '2'
 abstract: Patterns in biodiversity and species coexistence are the result of multiple

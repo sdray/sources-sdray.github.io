@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: How Can Ecological Status Be Summarized for an Operational Pressures/States
-  Model ?
+title: How can ecological status be summarized for an operational Pressures/States
+  model ?
 subtitle: ''
 summary: ''
 authors:
@@ -33,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:09.512725Z'
+publishDate: '2020-11-04T14:23:52.238191Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*European Geosciences Union - EGU*'
+publication: ''
 ---

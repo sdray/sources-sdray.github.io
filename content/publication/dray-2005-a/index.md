@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Taking into Account Spatial Dependence in Multivariate Analysis: A Generalization\
-  \ of Wartenberg's Multivariate Spatial Correlation"
+title: "Taking into account spatial dependence in multivariate analysis: a generalization\
+  \ of Wartenberg's multivariate spatial correlation"
 subtitle: ''
 summary: ''
 authors:
@@ -28,9 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:05.476808Z'
+publishDate: '2020-11-04T14:23:23.755094Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*Spatial Econometrics and Statistics Workshop*'
+publication: ''
 ---

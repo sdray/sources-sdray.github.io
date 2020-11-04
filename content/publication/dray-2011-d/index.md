@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Linking Traits to Environmental Variation
+title: Linking traits to environmental variation
 subtitle: ''
 summary: ''
 authors:
 - Stéphane Dray
 tags: []
 categories: []
-date: '2011-01-01'
+date: '2011-10-01'
 lastmod: 2020-10-23T13:28:06+02:00
 featured: false
 draft: false
@@ -27,9 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:06.826381Z'
+publishDate: '2020-11-04T14:23:33.508902Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*Workshop on Community Phylogenetics, 11 October*'
+publication: ''
 ---

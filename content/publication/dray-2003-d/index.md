@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Procrustean Co-Inertia Analysis for the Linking of Multivariate Data Sets
+title: Procrustean co-inertia analysis for the linking of multivariate data sets
 subtitle: ''
 summary: ''
 authors:
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:15.290845Z'
+publishDate: '2020-11-04T14:23:20.356974Z'
 publication_types:
 - '2'
 abstract: Procrustes analysis is a method for fitting a set of points to another.

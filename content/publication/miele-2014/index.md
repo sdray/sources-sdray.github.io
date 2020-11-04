@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Spatially Constrained Clustering of Ecological Networks
+title: Spatially constrained clustering of ecological networks
 subtitle: ''
 summary: ''
 authors:
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:26.404503Z'
+publishDate: '2020-11-04T14:23:56.580494Z'
 publication_types:
 - '2'
 abstract: Spatial ecological networks are widely used to model interactions between

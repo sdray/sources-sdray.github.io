@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Nouvelles Méthodes d'analyse Spatiale Multivarié de Donn'ś Incomplètes
+title: Nouvelles méthodes d'analyse spatiale multivarié de donn'ś incomplètes
 subtitle: ''
 summary: ''
 authors:
 - Stéphane Dray
 tags: []
 categories: []
-date: '2004-01-01'
+date: '2004-11-01'
 lastmod: 2020-10-23T13:28:05+02:00
 featured: false
 draft: false
@@ -27,9 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:05.141845Z'
+publishDate: '2020-11-04T14:23:22.464775Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*Département de Bioinformatique, UQAM, 10 November*'
+publication: ''
 ---

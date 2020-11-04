@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Broad-Scale Biodiversity Pattern of the Endemic Tree Flora of the Western Ghats
-  (India) Using Canonical Correlation Analysis of Herbarium Records
+title: Broad-scale biodiversity pattern of the endemic tree flora of the Western Ghats
+  (India) using canonical correlation analysis of herbarium records
 subtitle: ''
 summary: ''
 authors:
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:22.089169Z'
+publishDate: '2020-11-04T14:23:47.233117Z'
 publication_types:
 - '2'
 abstract: 'A crucial step in understanding the origin and maintenance of biological

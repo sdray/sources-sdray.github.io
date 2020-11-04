@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Spatial Variation in Springtime Food Resources Influences the Winter Body Mass
-  of Roe Deer Fawn
+title: Spatial variation in springtime food resources influences the winter body mass
+  of roe deer fawn
 subtitle: ''
 summary: ''
 authors:
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:30.728075Z'
+publishDate: '2020-11-04T14:24:04.623538Z'
 publication_types:
 - '2'
 abstract: It is well established that the dynamics of mammalian populations vary in

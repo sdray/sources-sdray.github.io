@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Développements Mt́hodologiques Autour de l'analyse de Donn'ś 'Eĺogiques
+title: Développements mt́hodologiques autour de l'analyse de donn'ś 'eĺogiques
 subtitle: ''
 summary: ''
 authors:
 - Stéphane Dray
 tags: []
 categories: []
-date: '2010-01-01'
+date: '2010-11-01'
 lastmod: 2020-10-23T13:28:05+02:00
 featured: false
 draft: false
@@ -27,9 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:05.651676Z'
+publishDate: '2020-11-04T14:23:27.897852Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*Journée Du PRABI, 10 November*'
+publication: ''
 ---

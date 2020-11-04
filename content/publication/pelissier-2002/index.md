@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Within-Plot Relationships between Tree Species Occurrences and Hydrological
-  Soil Constraints: An Example in French Guiana Investigated through Canonical Correlation
-  Analysis'
+title: 'Within-plot relationships between tree species occurrences and hydrological
+  soil constraints: an example in French Guiana investigated through canonical correlation
+  analysis'
 subtitle: ''
 summary: ''
 authors:
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:28.068615Z'
+publishDate: '2020-11-04T14:23:59.123624Z'
 publication_types:
 - '2'
 abstract: 'Spatial relationships between tree species and hydrological soil constraints

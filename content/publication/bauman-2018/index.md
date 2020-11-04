@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Disentangling Good from Bad Practices in the Selection of Spatial or Phylogenetic
-  Eigenvectors
+title: Disentangling good from bad practices in the selection of spatial or phylogenetic
+  eigenvectors
 subtitle: ''
 summary: ''
 authors:
@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:07.527263Z'
+publishDate: '2020-11-04T14:23:01.032120Z'
 publication_types:
 - '2'
 abstract: 'Eigenvector mapping techniques are widely used by ecologists and evolutionary

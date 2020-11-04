@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Visualisation de Données Multivariés: R'ḿpl'eńtation Des Fonctionnalit'esŕaphiques\
-  \ de La Librairie Ade4"
+title: "Visualisation de données multivariés: r'ḿpl'eńtation des fonctionnalit'esŕaphiques\
+  \ de la librairie ade4"
 subtitle: ''
 summary: ''
 authors:
@@ -29,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:09.284346Z'
+publishDate: '2020-11-04T14:23:50.859416Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*1ères Rencontres R*'
+publication: ''
 ---

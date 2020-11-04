@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Coupling Principal Component Analysis and GIS to Map Deer Habitats
+title: Coupling principal component analysis and GIS to map deer habitats
 subtitle: ''
 summary: ''
 authors:
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:31.217210Z'
+publishDate: '2020-11-04T14:24:05.328894Z'
 publication_types:
 - '2'
 abstract: 'We aimed to define at a relevant scale the spatial pattern of major vegetation

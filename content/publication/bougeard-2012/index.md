@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Analyse de (K+1) Tableaux Avec Le Logiciel Ade4. Application En Épidḿiologie
+title: Analyse de (K+1) tableaux avec le logiciel ade4. Application en épidḿiologie
 subtitle: ''
 summary: ''
 authors:
@@ -28,9 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:02.981839Z'
+publishDate: '2020-11-04T14:23:02.312749Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*1ères Rencontres R*'
+publication: ''
 ---

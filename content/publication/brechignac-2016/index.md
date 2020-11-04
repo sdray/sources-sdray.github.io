@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Addressing Ecological Effects of Radiation on Populations and Ecosystems to
-  Improve Protection of the Environment against Radiation: Agreed Statements from
+title: 'Addressing ecological effects of radiation on populations and ecosystems to
+  improve protection of the environment against radiation: Agreed statements from
   a Consensus Symposium.'
 subtitle: ''
 summary: ''
@@ -62,7 +62,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:09.387388Z'
+publishDate: '2020-11-04T14:23:05.156837Z'
 publication_types:
 - '2'
 abstract: This paper reports the output of a consensus symposium organized by the

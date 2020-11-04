@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Factors Shaping Community Assemblages and Species Occurrence of Different Trophic
-  Levels
+title: Factors shaping community assemblages and species occurrence of different trophic
+  levels
 subtitle: ''
 summary: ''
 authors:
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:38.003629Z'
+publishDate: '2020-11-04T14:24:18.238708Z'
 publication_types:
 - '2'
 abstract: Species assemblages are the results of various processes, including dispersion

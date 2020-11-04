@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: The Exploratory Analysis of Autocorrelation in Animal-Movement Studies
+title: The exploratory analysis of autocorrelation in animal-movement studies
 subtitle: ''
 summary: ''
 authors:
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:17.821809Z'
+publishDate: '2020-11-04T14:23:28.520445Z'
 publication_types:
 - '2'
 abstract: Studies of animal movements have been popularized for many large and shy

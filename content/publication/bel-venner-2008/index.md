@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Unexpected Male Choosiness for Mates in a Spider
+title: Unexpected male choosiness for mates in a spider
 subtitle: ''
 summary: ''
 authors:
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:07.776633Z'
+publishDate: '2020-11-04T14:23:01.468173Z'
 publication_types:
 - '2'
 abstract: "Sexual selection theory traditionally considers choosiness for mates to\

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Analysing a Pair of Tables: Coinertia Analysis and Duality Diagrams'
+title: 'Analysing a pair of tables: coinertia analysis and duality diagrams'
 subtitle: ''
 summary: ''
 authors:
@@ -27,9 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:19.923404Z'
+publishDate: '2020-11-04T14:23:37.054932Z'
 publication_types:
 - '6'
 abstract: ''
-publication: '*Visualization and Verbalization of Data*'
+publication: '*Visualization and verbalization of data*'
 ---

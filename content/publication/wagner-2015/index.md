@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Generating Spatially Constrained Null Models for Irregularly Spaced Data Using
-  Moran Spectral Randomization Methods
+title: Generating spatially constrained null models for irregularly spaced data using
+  Moran spectral randomization methods
 subtitle: ''
 summary: ''
 authors:
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:38.805263Z'
+publishDate: '2020-11-04T14:24:19.647716Z'
 publication_types:
 - '2'
 abstract: "Spatial autocorrelation jeopardizes the validity of statistical inference,\

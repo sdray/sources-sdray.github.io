@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Functional Traits Reveal Processes Driving Natural Afforestation at Large Spatial
-  Scales.
+title: Functional traits reveal processes driving natural afforestation at large spatial
+  scales.
 subtitle: ''
 summary: ''
 authors:
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:25.372581Z'
+publishDate: '2020-11-04T14:23:54.644147Z'
 publication_types:
 - '2'
 abstract: An understanding of the processes governing natural afforestation over large

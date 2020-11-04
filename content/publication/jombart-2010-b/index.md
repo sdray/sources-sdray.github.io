@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Une Approche Multivariée Pour La Recherche de Structures Phylogń'íques Dans
-  Les Donn'e ́Biologiques
+title: Une approche multivariée pour la recherche de structures phylogń'íques dans
+  les donn'e ́biologiques
 subtitle: ''
 summary: ''
 authors:
@@ -33,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:09.159633Z'
+publishDate: '2020-11-04T14:23:50.314321Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*Ecologie 2010*'
+publication: ''
 ---

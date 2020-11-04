@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: How to Deal with Missing and Confounding Variables in Multivariate Analysis?
+title: How to deal with missing and confounding variables in multivariate analysis?
 subtitle: ''
 summary: ''
 authors:
 - Stéphane Dray
 tags: []
 categories: []
-date: '2019-01-01'
+date: '2019-09-01'
 lastmod: 2020-10-23T13:28:08+02:00
 featured: false
 draft: false
@@ -27,9 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:08.162383Z'
+publishDate: '2020-11-04T14:23:42.779106Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*Séminaire Scientifique Annuel Du SRTE, 25 September*'
+publication: ''
 ---

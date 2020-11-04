@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Spatial Analyses of Multi-trophic Terrestrial Vertebrate Assemblages in Europe
+title: Spatial analyses of multi-trophic terrestrial vertebrate assemblages in Europe
 subtitle: ''
 summary: ''
 authors:
@@ -44,7 +44,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:09.038445Z'
+publishDate: '2020-11-04T14:23:04.695019Z'
 publication_types:
 - '2'
 abstract: ''

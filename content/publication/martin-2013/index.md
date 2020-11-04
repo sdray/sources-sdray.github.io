@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Reciprocal Modulation of Internal and External Factors Determines Individual
-  Movements.
+title: Reciprocal modulation of internal and external factors determines individual
+  movements.
 subtitle: ''
 summary: ''
 authors:
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:24.549581Z'
+publishDate: '2020-11-04T14:23:53.389403Z'
 publication_types:
 - '2'
 abstract: Movement is fundamental to individual and population dynamics, as it allows

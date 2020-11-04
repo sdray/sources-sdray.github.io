@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: The Global Spectrum of Plant Form and Function
+title: The global spectrum of plant form and function
 subtitle: ''
 summary: ''
 authors:
@@ -61,7 +61,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:13.488791Z'
+publishDate: '2020-11-04T14:23:14.564690Z'
 publication_types:
 - '2'
 abstract: Earth is home to a remarkable diversity of plant forms and life histories,

@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Linking Trait Variation to the Environment: Critical Issues with Community-Weighted
-  Mean Correlation Resolved by the Fourth-Corner Approach'
+title: 'Linking trait variation to the environment: Critical issues with community-weighted
+  mean correlation resolved by the fourth-corner approach'
 subtitle: ''
 summary: ''
 authors:
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:30.304542Z'
+publishDate: '2020-11-04T14:24:03.307260Z'
 publication_types:
 - '2'
 abstract: Establishing trait-environment relationships has become routine in community

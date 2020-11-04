@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Functional Analysis of Normalized Difference Vegetation Index Curves Reveals
-  Overwinter Mule Deer Survival Is Driven by Both Spring and Autumn Phenology
+title: Functional analysis of Normalized Difference Vegetation Index curves reveals
+  overwinter mule deer survival is driven by both spring and autumn phenology
 subtitle: ''
 summary: ''
 authors:
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:22.973131Z'
+publishDate: '2020-11-04T14:23:48.453051Z'
 publication_types:
 - '2'
 abstract: Large herbivore populations respond strongly to remotely sensed measures

@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Integrating Spatial and Phylogenetic Information in the Fourth-Corner Analysis
-  to Test Trait-Environment Relationships
+title: Integrating spatial and phylogenetic information in the fourth-corner analysis
+  to test trait-environment relationships
 subtitle: ''
 summary: ''
 authors:
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:08.714539Z'
+publishDate: '2020-11-04T14:23:04.248773Z'
 publication_types:
 - '2'
 abstract: The fourth-corner analysis aims to quantify and test for relationships between

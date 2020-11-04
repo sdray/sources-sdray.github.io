@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Improved Testing of Species Traits-Environment Relationships in the Fourth
-  Corner Problem
+title: Improved testing of species traits-environment relationships in the fourth
+  corner problem
 subtitle: ''
 summary: ''
 authors:
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:34.482613Z'
+publishDate: '2020-11-04T14:24:10.863833Z'
 publication_types:
 - '2'
 abstract: The fourth-corner problem entails estimation and statistical testing of

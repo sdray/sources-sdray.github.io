@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Adegraphics : Un Package Pour La Représentation et l'analyse de Donnés Multivari'ś"
+title: "adegraphics : un package pour la représentation et l'analyse de donnés multivari'ś"
 subtitle: ''
 summary: ''
 authors:
@@ -30,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:10.500253Z'
+publishDate: '2020-11-04T14:24:08.038166Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*2èmes Rencontres R*'
+publication: ''
 ---

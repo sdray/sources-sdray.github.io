@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Méthodes de Couplage de Deux K-Tableaux et Collections de Graphiques
+title: Méthodes de couplage de deux K-tableaux et collections de graphiques
 subtitle: ''
 summary: ''
 authors:
@@ -31,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:10.734382Z'
+publishDate: '2020-11-04T14:24:14.182398Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*2èmes Rencontres R*'
+publication: ''
 ---

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Matching Data Sets from Two Different Spatial Samples
+title: Matching data sets from two different spatial samples
 subtitle: ''
 summary: ''
 authors:
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:14.011379Z'
+publishDate: '2020-11-04T14:23:17.360403Z'
 publication_types:
 - '2'
 abstract: Methods for coupling two data sets (species composition and environmental

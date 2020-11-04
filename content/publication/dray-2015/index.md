@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Considering External Information to Improve the Phylogenetic Comparison of
-  Microbial Communities: A New Approach Based on Constrained Double Principal Coordinates
+title: 'Considering external information to improve the phylogenetic comparison of
+  microbial communities: a new approach based on constrained Double Principal Coordinates
   Analysis (cDPCoA)'
 subtitle: ''
 summary: ''
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:20.327357Z'
+publishDate: '2020-11-04T14:23:38.368378Z'
 publication_types:
 - '2'
 abstract: The use of next-generation sequencing technologies is revolutionizing microbial

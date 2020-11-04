@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Multivariate Analysis of Ecological Data with Ade4
+title: Multivariate Analysis of Ecological Data with ade4
 subtitle: ''
 summary: ''
 authors:
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:36.698438Z'
+publishDate: '2020-11-04T14:24:14.850019Z'
 publication_types:
 - '5'
 abstract: This book introduces the ade4 package for R which provides multivariate

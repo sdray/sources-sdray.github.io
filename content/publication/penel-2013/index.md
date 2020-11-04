@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Un Site Web d'enseignement R Automatisé et à Gestion Partagé
+title: Un site web d'enseignement R automatisé et à gestion partagé
 subtitle: ''
 summary: ''
 authors:
@@ -31,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:10.033646Z'
+publishDate: '2020-11-04T14:24:00.989275Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*2èmes Rencontres R*'
+publication: ''
 ---

@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Les Harttiini (Siluriformes, Loricariidae) Des Guyanes : Phylogénie et v́olution
-  Des Formes Ou Variation Sur Un Même Thème.'
+title: 'Les Harttiini (Siluriformes, Loricariidae) des Guyanes : phylogénie et v́olution
+  des formes ou variation sur un même thème.'
 subtitle: ''
 summary: ''
 authors:
@@ -33,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:04.209357Z'
+publishDate: '2020-11-04T14:23:11.844943Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: "*RIF 2009 (4e Rencontres de l'Ichtyologie En France)*"
+publication: ''
 ---

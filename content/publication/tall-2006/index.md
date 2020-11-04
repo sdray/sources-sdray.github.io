@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Resource Partitioning in a Grazer Guild Feeding on a Multilayer Diatom Mat
+title: Resource partitioning in a grazer guild feeding on a multilayer diatom mat
 subtitle: ''
 summary: ''
 authors:
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:33.927819Z'
+publishDate: '2020-11-04T14:24:10.116586Z'
 publication_types:
 - '2'
 abstract: The gut contents of a guild of invertebrate grazers inhabiting the moss

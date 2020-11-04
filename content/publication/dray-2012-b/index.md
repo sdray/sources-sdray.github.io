@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Ade4: Statistical Methods and Graphical Functions for the Analysis of Multivariate
-  Data'
+title: 'ade4: statistical methods and graphical functions for the analysis of multivariate
+  data'
 subtitle: ''
 summary: ''
 authors:
@@ -10,7 +10,7 @@ authors:
 - Alice Julien-Laferrière
 tags: []
 categories: []
-date: '2012-01-01'
+date: '2012-11-01'
 lastmod: 2020-10-23T13:28:07+02:00
 featured: false
 draft: false
@@ -29,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:07.104576Z'
+publishDate: '2020-11-04T14:23:35.698921Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*Statomique, 27 November*'
+publication: ''
 ---

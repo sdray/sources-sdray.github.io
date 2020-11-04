@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Moran Eigenvector Filters for the Analysis of Ecological Data : Are They Really
-  Multiscale?'
+title: 'Moran eigenvector filters for the analysis of ecological data : are they really
+  multiscale?'
 subtitle: ''
 summary: ''
 authors:
@@ -28,9 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:08.477407Z'
+publishDate: '2020-11-04T14:23:43.983006Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*Ecosystems Dynamics*'
+publication: ''
 ---

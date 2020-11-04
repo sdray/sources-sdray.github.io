@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Testing the Species Traits-Environment Relationships: The Fourth-Corner Problem
-  Revisited'
+title: 'Testing the species traits-environment relationships: the fourth-corner problem
+  revisited'
 subtitle: ''
 summary: ''
 authors:
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:16.971322Z'
+publishDate: '2020-11-04T14:23:26.663423Z'
 publication_types:
 - '2'
 abstract: 'Functional ecology aims at determining the relationships between species

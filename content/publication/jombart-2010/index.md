@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Adephylo: New Tools for Investigating the Phylogenetic Signal in Biological
-  Traits'
+title: 'adephylo: new tools for investigating the phylogenetic signal in biological
+  traits'
 subtitle: ''
 summary: ''
 authors:
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:23.707432Z'
+publishDate: '2020-11-04T14:23:49.728778Z'
 publication_types:
 - '2'
 abstract: ''

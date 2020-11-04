@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Testing Sexual Segregation and Aggregation: Old Ways Are Best'
+title: 'Testing sexual segregation and aggregation: old ways are best'
 subtitle: ''
 summary: ''
 authors:
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:07.901209Z'
+publishDate: '2020-11-04T14:23:01.795445Z'
 publication_types:
 - '2'
 abstract: The study of sexual segregation has received increasing attention over the

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Optimizing the Choice of a Spatial Weighting Matrix in Eigenvector-Based Methods
+title: Optimizing the choice of a spatial weighting matrix in eigenvector-based methods
 subtitle: ''
 summary: ''
 authors:
@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:07.643661Z'
+publishDate: '2020-11-04T14:23:01.188388Z'
 publication_types:
 - '2'
 abstract: Abstract Eigenvector-mapping methods such as Moran's eigenvector maps (MEM)

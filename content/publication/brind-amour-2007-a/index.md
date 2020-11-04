@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Multi-Scale Assessment of the Functional Relationships between Species Traits
-  and Environmental Conditions for Littoral Fish Communities
+title: Multi-scale assessment of the functional relationships between species traits
+  and environmental conditions for littoral fish communities
 subtitle: ''
 summary: ''
 authors:
@@ -31,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:03.417749Z'
+publishDate: '2020-11-04T14:23:06.328094Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*60th Canadian Conference for Fisheries Research*'
+publication: ''
 ---

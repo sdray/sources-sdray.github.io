@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Algorithms and Biplots for Double Constrained Correspondence Analysis
+title: Algorithms and biplots for double constrained correspondence analysis
 subtitle: ''
 summary: ''
 authors:
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:35.409036Z'
+publishDate: '2020-11-04T14:24:12.098983Z'
 publication_types:
 - '2'
 abstract: Correspondence analysis with linear external constraints on both the rows

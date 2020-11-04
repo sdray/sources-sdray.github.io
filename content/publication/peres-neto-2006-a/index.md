@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Variation Partitioning of Species Data Matrices: Estimation and Comparison
-  of Fractions'
+title: 'Variation partitioning of species data matrices: estimation and comparison
+  of fractions'
 subtitle: ''
 summary: ''
 authors:
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:29.325052Z'
+publishDate: '2020-11-04T14:24:02.232348Z'
 publication_types:
 - '2'
 abstract: Establishing relationships between species distributions and environmental

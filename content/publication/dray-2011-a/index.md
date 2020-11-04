@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "A New Perspective about Moran's Coefficient: Spatial Autocorrelation as a\
-  \ Linear Regression Problem"
+title: "A new perspective about Moran's coefficient: spatial autocorrelation as a\
+  \ linear regression problem"
 subtitle: ''
 summary: ''
 authors:
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:18.223590Z'
+publishDate: '2020-11-04T14:23:31.498008Z'
 publication_types:
 - '2'
 abstract: "The computation of Moran's index of spatial autocorrelation requires the\

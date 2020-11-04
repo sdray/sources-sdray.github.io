@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: An Integrated Web Server and R Package for Data Sharing and Reproducible Research
-  in Ecology
+title: An integrated web server and R package for data sharing and reproducible research
+  in ecology
 subtitle: ''
 summary: ''
 authors:
@@ -28,9 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:07.384957Z'
+publishDate: '2020-11-04T14:23:39.628976Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*RLyon, 15 January*'
+publication: ''
 ---

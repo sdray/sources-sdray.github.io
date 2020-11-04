@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Investigating Microbial Associations from Sequencing Survey Data with Co-Correspondence
-  Analysis
+title: Investigating microbial associations from sequencing survey data with co-correspondence
+  analysis
 subtitle: ''
 summary: ''
 authors:
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:07.393176Z'
+publishDate: '2020-11-04T14:23:00.891884Z'
 publication_types:
 - '2'
 abstract: Microbial communities, which drive major ecosystem functions, consist of

@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: De La Biologie à l'algb̀re Linéaire ... En Passant Par R. Expŕimenter La Notion
-  de Projection
+title: De la biologie à l'algb̀re linéaire ... en passant par R. Expŕimenter la notion
+  de projection
 subtitle: ''
 summary: ''
 authors:
@@ -31,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:09.014438Z'
+publishDate: '2020-11-04T14:23:45.260782Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*2èmes Rencontres R*'
+publication: ''
 ---

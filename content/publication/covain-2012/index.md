@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'The Harttiini (Siluriformes, Loricariidae) from the Guianas: A Multi-Table
-  Approach to Assess Their Diversity, Evolution, and Distribution'
+title: 'The Harttiini (Siluriformes, Loricariidae) from the Guianas: a multi-table
+  approach to assess their diversity, evolution, and distribution'
 subtitle: ''
 summary: ''
 authors:
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:12.205862Z'
+publishDate: '2020-11-04T14:23:12.800363Z'
 publication_types:
 - '2'
 abstract: 'The Harttiini are a tribe of Loricariinae poorly characterized morphologically.

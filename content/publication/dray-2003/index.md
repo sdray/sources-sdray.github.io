@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Cartographie et Analyse de Données Multivariés
+title: Cartographie et analyse de données multivariés
 subtitle: ''
 summary: ''
 authors:
@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:04.717274Z'
+publishDate: '2020-11-04T14:23:17.925064Z'
 publication_types:
 - '0'
 abstract: L'identification de structures spatiales induisant plusieurs variables est

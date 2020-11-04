@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Assessing Phylogenetic Dependence of Morphological Traits Using Co-Inertia
-  Prior to Investigate Character Evolution in Loricariinae Catfishes
+title: Assessing phylogenetic dependence of morphological traits using co-inertia
+  prior to investigate character evolution in Loricariinae catfishes
 subtitle: ''
 summary: ''
 authors:
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:11.266676Z'
+publishDate: '2020-11-04T14:23:10.133747Z'
 publication_types:
 - '2'
 abstract: 'With the increase of laboratory facilities, molecular phylogenies are playing

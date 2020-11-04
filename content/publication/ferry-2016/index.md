@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Interspecific Interference Competition at the Resource Patch Scale: Do Large
-  Herbivores Spatially Avoid Elephants While Accessing Water?'
+title: 'Interspecific interference competition at the resource patch scale: do large
+  herbivores spatially avoid elephants while accessing water?'
 subtitle: ''
 summary: ''
 authors:
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T19:27:21.204743Z'
+publishDate: '2020-11-04T14:23:45.868281Z'
 publication_types:
 - '2'
 abstract: Animals may anticipate and try to avoid, at some costs, physical encounters

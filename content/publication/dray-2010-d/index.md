@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Some Methodological Developments around the Spatial Weighting Matrix in Ecology
+title: Some methodological developments around the spatial weighting matrix in ecology
 subtitle: ''
 summary: ''
 authors:
@@ -27,9 +27,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:06.171776Z'
+publishDate: '2020-11-04T14:23:30.247985Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: "*Réunion Du Rśeau MIA Modèles Hi'árchiques Spatiaux, 27 January*"
+publication: ''
 ---

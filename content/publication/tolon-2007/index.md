@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: '\"Reserve Effect\" on the Space Use of Game Mammals: The Case of Wild Boar'
+title: '\"Reserve effect\" on the space use of game mammals: the case of wild boar'
 subtitle: ''
 summary: ''
 authors:
@@ -30,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:11.218379Z'
+publishDate: '2020-11-04T14:24:16.164456Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*Vth European Mammalogy Congress*'
+publication: ''
 ---

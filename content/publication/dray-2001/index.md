@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Systèmes d'information Géographique : Une Application  ̀La Modĺisation d'une\
-  \ Maladie `T̀ransmission Vectorielle Au Burkina Faso"
+title: "Systèmes d'information géographique : une application  ̀la modĺisation d'une\
+  \ maladie `t̀ransmission vectorielle au Burkina Faso"
 subtitle: ''
 summary: ''
 authors:
 - Stéphane Dray
 tags: []
 categories: []
-date: '2001-01-01'
+date: '2020-11-01'
 lastmod: 2020-10-23T13:28:04+02:00
 featured: false
 draft: false
@@ -28,9 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-23T11:28:04.540391Z'
+publishDate: '2020-11-04T14:23:16.860180Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: "*Séminaire de l'UMR 5558, 29 November*"
+publication: ''
 ---
