@@ -157,7 +157,7 @@
   translation: Location
 
 - id: pub_uncat
-  translation: Uncategorized
+  translation: Conference/Seminar
 
 - id: pub_conf
   translation: Conference paper
