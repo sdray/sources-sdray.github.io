@@ -22,4 +22,3 @@ jobs:
         HUGO_VERSION: 0.76.5
         TARGET_REPO: sdray/sdray.github.io
         TOKEN: ${{ secrets.GHA_DEPLOY }}
-        HUGO_ARGS: '-t academic'
