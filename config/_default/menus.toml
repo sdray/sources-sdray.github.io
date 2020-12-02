@@ -13,7 +13,7 @@
 [[main]]
   name = "Members/Students"
   parent = "research"
-  url = "/students/"
+  url = "/student/"
   weight = 1
   
 [[main]]
