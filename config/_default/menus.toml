@@ -19,7 +19,7 @@
 [[main]]
   name = "Projects"
   parent = "research"
-  url = "#projects"
+  url = "/project/"
   weight = 2
 
 [[main]]
