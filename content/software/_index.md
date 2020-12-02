@@ -32,9 +32,10 @@ An important part of my activity is devoted to the development of statistical so
 ## `ade4`
 
 The ade4 package provides statistical tools and graphical functions for the analysis of multivariate data. It contains methods for the analysis of one table (principal component analysis, correspondence analysis, multiple correspondence analysis, etc.), a pair of tables (coinertia analysis, redundancy analysis, canonical correspondence analysis, etc.) or multiple tables (partial triadic analysis, STATIS, multiple coinertia analysis, etc.). 
+
 ## `adespatial`
 
-XXX
+The package adespatial contains functions for the multiscale analysis of spatial multivariate data. It implements some new functions and reimplements existing functions that were available in packages of the sedaR project hosted on R-Forge (spacemakeR, packfor, AEM, etc.).
 
 ## `adephylo`
 
