@@ -55,7 +55,7 @@ I am research scientist at the [CNRS](http://www.cnrs.fr/) based in [Université
 
 I am a statistical ecologist (aka biometrician, biostatistician, quantitative ecologist, numerical ecologist, etc.). My work consists in developing novel statistical methods for analyzing biological data with a special emphasis on multivariate analysis and spatial statistics. I am mainly interested in understanding the role of multiple factors (e.g., species traits, environment) that influence the (spatial) structure of ecological communities and control beta diversity.
 
-I am contributor/author of several software (freeware, open source) including the ade4 package for R which provides statistical and graphical tools for the analysis of multivariate data. 
+I am contributor/author of several software (freeware, open source) including the ade4 package for {{< icon name="r-project" pack="fab" >}}  which provides statistical and graphical tools for the analysis of multivariate data. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cvdray.pdf" "newtab" >}}CV{{< /staticref >}}.

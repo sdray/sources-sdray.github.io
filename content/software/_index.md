@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-An important part of my activity is devoted to the development of statistical software, mainly R packages. I contribute to the following projects and occasionally to other packages (e.g., Guerry, spdep, adehabitat). Development versions of the packages are available on my GitHub page. 
+An important part of my activity is devoted to the development of statistical software, mainly {{< icon name="r-project" pack="fab" >}} packages. I contribute to the following projects and occasionally to other packages (e.g., Guerry, spdep, adehabitat). Development versions of the packages are available on my GitHub page. 
 
 ## `ade4`
 
