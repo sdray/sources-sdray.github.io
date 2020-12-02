@@ -1,6 +1,7 @@
 theme: starter-academic
 title: Stéphane Dray
 baseurl: https://sdray.github.io/
+publishDir: "../sdray.github.io"
 copyright: ''
 enableGitInfo: no
 defaultContentLanguage: en
