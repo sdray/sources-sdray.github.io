@@ -31,10 +31,26 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-27T12:50:45.268547Z'
+publishDate: '2022-09-27T13:40:04.812376Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'Comparing the architecture of interaction networks in space or time is
+  essential for understanding the assembly, trajectory, functioning and persistence
+  of species communities. Graph embedding methods, which position networks into a
+  vector space where nearby networks have similar architectures, could be ideal tools
+  for this purposes. Here, we evaluated the ability of seven graph embedding methods
+  to disentangle architectural similarities of interactions networks for supervised
+  and unsupervised posterior analytic tasks. The evaluation was carried out over a
+  large number of simulated trophic networks representing variations around six ecological
+  properties and size. We did not find an overall best method and instead showed that
+  the performance of the methods depended on the targeted ecological properties and
+  thus on the research questions. We also highlighted the importance of normalising
+  the embedding for network sizes for meaningful posterior unsupervised analyses.
+  We concluded by orientating potential users to the most suited methods given the
+  question, the targeted network ecological property, and outlined links between those
+  ecological properties and three ecological processes: robustness to extinction,
+  community persistence and ecosystem functioning. We hope this study will stimulate
+  the appropriation of graph embedding methods by ecologists.'
 publication: '*Methods in Ecology and Evolution*'
 doi: 10.1111/2041-210X.13738
 links:

@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-27T12:50:45.552710Z'
+publishDate: '2022-09-27T13:40:05.106898Z'
 publication_types:
 - '2'
 abstract: The fourth-corner analysis aims to quantify and test for relationships between

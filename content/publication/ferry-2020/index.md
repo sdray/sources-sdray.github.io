@@ -42,10 +42,25 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-27T12:50:49.562120Z'
+publishDate: '2022-09-27T13:40:09.314418Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: In many semi-arid savanna ecosystems, surface water is scarce and only found
+  in artificially pumped waterholes at the end of the dry season, leading to high
+  large mammal densities and competition. Further, the modification of the physico-chemical
+  characteristics of the drinking water over the dry season (e.g. through faeces accumulation)
+  could enhance competition. Indeed, elephants, considered as key-competitors, and
+  other herbivores by aggregating near the trough where clear water arrives could
+  compete for this resource. We studied the drinking locations of eight herbivore
+  species around pumped waterholes in relation to these water characteristics in Hwange
+  National Park, Zimbabwe. We identified differences of the physico-chemical characteristics
+  of the water in different sections of pumped waterholes at the end of the dry season.
+  Elephants drank the water in or close to the trough, whereas other species drank
+  further in the waterhole, except roan and sable antelopes which were indifferent
+  about where they drank. Interference competition with elephants for the access to
+  water close to the trough was not detected for zebras and kudus. We discuss possible
+  directions for future research to enhance our understanding of waterhole use by
+  herbivores.
 publication: '*Journal of Arid Environments*'
 doi: 10.1016/j.jaridenv.2019.104014
 links:

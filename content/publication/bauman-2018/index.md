@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-27T12:50:45.029822Z'
+publishDate: '2022-09-27T13:40:04.569915Z'
 publication_types:
 - '2'
 abstract: 'Eigenvector mapping techniques are widely used by ecologists and evolutionary

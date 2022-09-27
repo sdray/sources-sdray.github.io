@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-27T12:50:46.977705Z'
+publishDate: '2022-09-27T13:40:06.593107Z'
 publication_types:
 - '0'
 abstract: L’identification de structures spatiales induisant plusieurs variables est

@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-27T12:50:45.091003Z'
+publishDate: '2022-09-27T13:40:04.629940Z'
 publication_types:
 - '2'
 abstract: Abstract Eigenvector-mapping methods such as Moran's eigenvector maps (MEM)

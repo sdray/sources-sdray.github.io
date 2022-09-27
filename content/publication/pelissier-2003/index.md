@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-27T12:50:50.871360Z'
+publishDate: '2022-09-27T13:40:10.713579Z'
 publication_types:
 - '2'
 abstract: Both the ordination of taxonomic tables and the measurements of species

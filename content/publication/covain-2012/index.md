@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-27T12:50:46.464044Z'
+publishDate: '2022-09-27T13:40:06.060033Z'
 publication_types:
 - '2'
 abstract: 'The Harttiini are a tribe of Loricariinae poorly characterized morphologically.
