@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2014-01-01'
-lastmod: 2020-10-22T20:41:17+02:00
+lastmod: 2022-09-27T14:50:50+02:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-04T14:23:56.580494Z'
+publishDate: '2022-09-27T12:50:50.530094Z'
 publication_types:
 - '2'
 abstract: Spatial ecological networks are widely used to model interactions between
@@ -47,4 +47,7 @@ abstract: Spatial ecological networks are widely used to model interactions betw
   networks and appears to be an appealing alternative to consider such data.
 publication: '*Methods in Ecology and Evolution*'
 doi: 10.1111/2041-210X.12208
+links:
+- name: URL
+  url: http://doi.wiley.com/10.1111/2041-210X.12208
 ---

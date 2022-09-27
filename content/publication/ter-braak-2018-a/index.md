@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Simple parametric tests for trait– environment association
+title: Simple parametric tests for trait–environment association
 subtitle: ''
 summary: ''
 authors:
@@ -9,20 +9,20 @@ authors:
 - Pedro R. Peres-Neto
 - Stéphane Dray
 tags:
-- '"community ecology"'
-- '"community-level test"'
-- '"CWM of traits"'
-- '"environmental gradients"'
-- '"fourth-corner"'
-- '"functional traits"'
-- '"modified test"'
-- '"species niche centroid"'
-- '"species-level test"'
-- '"statistical ecology"'
-- '"trait–environment relationship"'
+- community ecology
+- community-level test
+- CWM of traits
+- environmental gradients
+- fourth-corner
+- functional traits
+- modified test
+- species niche centroid
+- species-level test
+- statistical ecology
+- trait–environment relationship
 categories: []
 date: '2018-01-01'
-lastmod: 2020-10-22T20:41:26+02:00
+lastmod: 2022-09-27T14:50:52+02:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-04T14:24:12.824905Z'
+publishDate: '2022-09-27T12:50:52.069977Z'
 publication_types:
 - '2'
 abstract: Question The community weighted means (CWM) approach is an easy way of analyzing

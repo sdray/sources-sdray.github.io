@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2011-01-01'
-lastmod: 2020-10-23T13:28:09+02:00
+lastmod: 2022-09-27T14:50:50+02:00
 featured: false
 draft: false
 
@@ -33,9 +33,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-04T14:23:52.238191Z'
+publishDate: '2022-09-27T12:50:50.129263Z'
 publication_types:
 - '0'
 abstract: ''
 publication: ''
+links:
+- name: URL
+  url: http://meetings.copernicus.org/egu2011/
 ---

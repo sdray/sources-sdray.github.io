@@ -11,10 +11,10 @@ authors:
 - Stéphane Dray
 - D Borcard
 tags:
-- '"R2"'
+- R2
 categories: []
 date: '2005-01-01'
-lastmod: 2020-10-23T13:28:10+02:00
+lastmod: 2022-09-27T14:50:51+02:00
 featured: false
 draft: false
 
@@ -32,9 +32,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-04T14:24:01.597424Z'
+publishDate: '2022-09-27T12:50:51.040790Z'
 publication_types:
 - '0'
 abstract: ''
 publication: ''
+links:
+- name: URL
+  url: http://www.esa.org/montreal/
 ---

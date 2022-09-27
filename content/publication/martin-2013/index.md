@@ -15,14 +15,14 @@ authors:
 - Dominique Allainé
 - Jon E Swenson
 tags:
-- '"animal movements"'
-- '"movement ecology"'
-- '"spatial ecology"'
-- '"spatial scales"'
-- '"Ursus arctos"'
+- animal movements
+- movement ecology
+- spatial ecology
+- spatial scales
+- Ursus arctos
 categories: []
 date: '2013-01-01'
-lastmod: 2020-10-22T20:41:15+02:00
+lastmod: 2022-09-27T14:50:50+02:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-04T14:23:53.389403Z'
+publishDate: '2022-09-27T12:50:50.241929Z'
 publication_types:
 - '2'
 abstract: Movement is fundamental to individual and population dynamics, as it allows
@@ -71,4 +71,7 @@ abstract: Movement is fundamental to individual and population dynamics, as it a
   for females with cubs in this study.
 publication: '*Journal of Animal Ecology*'
 doi: 10.1111/j.1365-2656.2012.02038.x
+links:
+- name: URL
+  url: http://www.ncbi.nlm.nih.gov/pubmed/23039315
 ---

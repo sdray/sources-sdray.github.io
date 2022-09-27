@@ -11,15 +11,15 @@ authors:
 - Wilfried Thuiller
 - Stéphane Dray
 tags:
-- '"community ecology"'
-- '"fourth-corner analysis"'
-- '"functional ecology"'
-- "\"Moran's spectral randomization\""
-- '"null models"'
-- '"type I error"'
+- community ecology
+- fourth-corner analysis
+- functional ecology
+- Moran's spectral randomization
+- null models
+- type I error
 categories: []
 date: '2018-01-01'
-lastmod: 2020-10-22T20:41:05+02:00
+lastmod: 2022-09-27T14:50:45+02:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-04T14:23:04.248773Z'
+publishDate: '2022-09-27T12:50:45.552710Z'
 publication_types:
 - '2'
 abstract: The fourth-corner analysis aims to quantify and test for relationships between
@@ -51,7 +51,7 @@ abstract: The fourth-corner analysis aims to quantify and test for relationships
   and phylogenetic autocorrelations can, in some circumstances, lead to inflated type
   I error rates, suggesting that signifi- cant associations can be misidentified.
   As an alternative, we propose a new randomization approach designed to avoid this
-  issue, based on Moran's spectral randomization. In this approach, standard permutations
+  issue, based on Moran’s spectral randomization. In this approach, standard permutations
   are replaced by constrained randomizations so that the distribution of the statistic
   under the null hypothesis is built with additional constraints to preserve the phylogenetic
   and spatial structures of the observed data. The inclusion of this new randomization
@@ -59,4 +59,7 @@ abstract: The fourth-corner analysis aims to quantify and test for relationships
   studies where spatial and phylogenetic autocorrelations often occur.
 publication: '*Ecology*'
 doi: 10.1002/ecy.2530
+links:
+- name: URL
+  url: http://doi.wiley.com/10.1002/ecy.2530
 ---

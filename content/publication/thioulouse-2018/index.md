@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2018-01-01'
-lastmod: 2020-10-22T20:41:26+02:00
+lastmod: 2022-09-27T14:50:52+02:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-04T14:24:14.850019Z'
+publishDate: '2022-09-27T12:50:52.241697Z'
 publication_types:
 - '5'
 abstract: This book introduces the ade4 package for R which provides multivariate
@@ -58,4 +58,7 @@ abstract: This book introduces the ade4 package for R which provides multivariat
   in this book come with executable R code.
 publication: '*Springer*'
 doi: 10.1007/978-1-4939-8850-1
+links:
+- name: URL
+  url: http://link.springer.com/10.1007/978-1-4939-8850-1
 ---

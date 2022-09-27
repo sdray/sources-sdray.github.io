@@ -10,21 +10,21 @@ authors:
 - Marie Josée Fortin
 - Stéphane Dray
 tags:
-- '"community ecology"'
-- '"community simulation"'
-- '"connection scheme"'
-- '"inference of ecological processes from spatial pat"'
-- "\"Moran's eigenvector maps (MEM)\""
-- '"multiscale spatial patterns"'
-- '"optimization"'
-- '"principal coordinates of neighbor matrices (PCNM)"'
-- '"spatial autocorrelation"'
-- '"spatial eigenvector mapping (SEVM)"'
-- '"spatial weighting matrix"'
-- '"type I error rate inflation"'
+- community ecology
+- community simulation
+- connection scheme
+- inference of ecological processes from spatial pat
+- Moran's eigenvector maps (MEM)
+- multiscale spatial patterns
+- optimization
+- principal coordinates of neighbor matrices (PCNM)
+- spatial autocorrelation
+- spatial eigenvector mapping (SEVM)
+- spatial weighting matrix
+- type I error rate inflation
 categories: []
 date: '2018-01-01'
-lastmod: 2020-10-22T20:41:04+02:00
+lastmod: 2022-09-27T14:50:45+02:00
 featured: false
 draft: false
 
@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-04T14:23:01.188388Z'
+publishDate: '2022-09-27T12:50:45.091003Z'
 publication_types:
 - '2'
 abstract: Abstract Eigenvector-mapping methods such as Moran's eigenvector maps (MEM)

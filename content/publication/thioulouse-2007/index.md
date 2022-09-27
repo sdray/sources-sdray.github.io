@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2007-01-01'
-lastmod: 2020-10-22T20:41:26+02:00
+lastmod: 2022-09-27T14:50:52+02:00
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-04T14:24:13.528429Z'
+publishDate: '2022-09-27T12:50:52.129208Z'
 publication_types:
 - '2'
 abstract: ade4 is a multivariate data analysis package for the R statistical environment,

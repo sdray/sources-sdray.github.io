@@ -14,11 +14,11 @@ authors:
 - G De Wispelaere
 - D Cuisance
 tags:
-- '"Multivarié"'
-- '"Spatial"'
+- Multivarié
+- Spatial
 categories: []
 date: '2001-01-01'
-lastmod: 2020-10-23T13:28:10+02:00
+lastmod: 2022-09-27T14:50:50+02:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-04T14:23:55.288566Z'
+publishDate: '2022-09-27T12:50:50.418343Z'
 publication_types:
 - '0'
 abstract: ''

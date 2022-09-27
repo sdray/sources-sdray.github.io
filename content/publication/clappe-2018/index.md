@@ -10,19 +10,19 @@ authors:
 - Stéphane Dray
 - Pedro R. Peres-Neto
 tags:
-- '"direct gradient analysis"'
-- '"environmental effect"'
-- '"limited dispersal"'
-- '"metacommunity ecology"'
-- '"moran spectral"'
-- '"neutral dynamics"'
-- '"randomization"'
-- '"spatial autocorrelation"'
-- '"spatially constrained null model"'
-- '"variation partitioning"'
+- direct gradient analysis
+- environmental effect
+- limited dispersal
+- metacommunity ecology
+- moran spectral
+- neutral dynamics
+- randomization
+- spatial autocorrelation
+- spatially constrained null model
+- variation partitioning
 categories: []
 date: '2018-01-01'
-lastmod: 2020-10-22T20:41:06+02:00
+lastmod: 2022-09-27T14:50:46+02:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-04T14:23:08.303778Z'
+publishDate: '2022-09-27T12:50:46.009961Z'
 publication_types:
 - '2'
 abstract: The methods of direct gradient analysis and variation partitioning are the
@@ -67,4 +67,7 @@ abstract: The methods of direct gradient analysis and variation partitioning are
   to spurious correlations.
 publication: '*Ecology*'
 doi: 10.1002/ecy.2376
+links:
+- name: URL
+  url: http://doi.org/10.1002/ecy.2376%0Ahttp://doi.wiley.com/10.1002/ecy.2376
 ---

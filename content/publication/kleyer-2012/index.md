@@ -17,7 +17,7 @@ authors:
 tags: []
 categories: []
 date: '2012-03-01'
-lastmod: 2020-10-22T20:41:15+02:00
+lastmod: 2022-09-27T14:50:50+02:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-04T14:23:51.586853Z'
+publishDate: '2022-09-27T12:50:50.070116Z'
 publication_types:
 - '2'
 abstract: 'Question: How do multivariate methods perform in relating species- and
@@ -73,4 +73,7 @@ abstract: 'Question: How do multivariate methods perform in relating species- an
   differed in sensitivity to gradient lengths and random data.'
 publication: '*Journal of Vegetation Science*'
 doi: 10.1111/j.1654-1103.2012.01402.x
+links:
+- name: URL
+  url: http://doi.wiley.com/10.1111/j.1654-1103.2012.01402.x
 ---

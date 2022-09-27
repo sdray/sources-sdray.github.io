@@ -11,11 +11,11 @@ authors:
 - Stéphane Dray
 - P Legendre
 tags:
-- '"RLQ"'
-- '"trait"'
+- RLQ
+- trait
 categories: []
 date: '2006-01-01'
-lastmod: 2020-10-22T20:41:24+02:00
+lastmod: 2022-09-27T14:50:51+02:00
 featured: false
 draft: false
 
@@ -33,11 +33,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-04T14:24:10.116586Z'
+publishDate: '2022-09-27T12:50:51.843394Z'
 publication_types:
 - '2'
 abstract: The gut contents of a guild of invertebrate grazers inhabiting the moss
-  Fontinalis and feeding on epiphytic diatoms in a small Que´ bec stream were analyzed
+  Fontinalis and feeding on epiphytic diatoms in a small Que´bec stream were analyzed
   to characterize resource partitioning and food selection. A multivariate approach
   (RLQ analysis coupled with a revised version of 4th-corner analysis) identified
   distinct diet patterns among co-occurring grazers. These patterns were mainly explained

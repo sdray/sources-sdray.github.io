@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2017-01-01'
-lastmod: 2020-10-22T20:41:24+02:00
+lastmod: 2022-09-27T14:50:51+02:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-04T14:24:09.444698Z'
+publishDate: '2022-09-27T12:50:51.785363Z'
 publication_types:
 - '2'
 abstract: The ade4 package provides tools for multivariate analyses. Whereas new statistical

@@ -16,14 +16,14 @@ authors:
 - Sylvain Delzon
 - Samuel Venner
 tags:
-- '"masting"'
-- '"oak species"'
-- '"pollen phenology"'
-- '"resource budget model"'
-- '"stochastic mast seeding"'
+- masting
+- oak species
+- pollen phenology
+- resource budget model
+- stochastic mast seeding
 categories: []
 date: '2020-01-01'
-lastmod: 2020-10-22T20:41:23+02:00
+lastmod: 2022-09-27T14:50:51+02:00
 featured: false
 draft: false
 
@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-04T14:24:07.196549Z'
+publishDate: '2022-09-27T12:50:51.560600Z'
 publication_types:
 - '2'
 abstract: Many perennial plants display masting, that is, fruiting with strong interannual

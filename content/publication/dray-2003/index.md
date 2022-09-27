@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2003-01-01'
-lastmod: 2020-10-23T13:28:04+02:00
+lastmod: 2022-09-27T14:50:47+02:00
 featured: false
 draft: false
 
@@ -27,13 +27,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-04T14:23:17.925064Z'
+publishDate: '2022-09-27T12:50:46.977705Z'
 publication_types:
 - '0'
-abstract: L’identification de structures spatiales induisant plusieurs variables
-    est une problématique récurrente dans de nombreux domaines d’application.
-    Cet article présente quelques aspects permettant la prise en compte
-    de l’espace lors de l’analyse de données multivariées. Une illustration
-    basée sur des données socio-économiques est proposée.
-publication: "*Institut d'Analyse Géographique*"
+abstract: L’identification de structures spatiales induisant plusieurs variables est
+  une problématique récurrente dans de nombreux domaines d’application. Cet article
+  présente quelques aspects permettant la prise en compte de l’espace lors de l’analyse
+  de données multivariées. Une illustration basée sur des données socio-économiques
+  est proposée.
+publication: '*Institut d’Analyse Géographique*'
 ---

@@ -1,7 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Couplage des données de biodiversité : prise en compte de l’originalité des structures de données"
+title: 'Couplage des données de biodiversité : prise en compte de l’originalité des
+  structures de données'
 subtitle: ''
 summary: ''
 authors:
@@ -9,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2017-12-01'
-lastmod: 2020-10-23T13:28:04+02:00
+lastmod: 2022-09-27T14:50:49+02:00
 featured: false
 draft: false
 
@@ -27,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-04T14:23:15.146000Z'
+publishDate: '2022-09-27T12:50:49.170694Z'
 publication_types:
 - '0'
 abstract: ''

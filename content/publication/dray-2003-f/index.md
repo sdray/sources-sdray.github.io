@@ -1,7 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Eléments d'interface entre analyses multivariées, systèmes d'information géographique et observations écologiques
+title: Eléments d'interface entre analyses multivariées, systèmes d'information géographique
+  et observations écologiques
 subtitle: ''
 summary: ''
 authors:
@@ -9,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2003-01-01'
-lastmod: 2020-10-22T21:49:43+02:00
+lastmod: 2022-09-27T14:50:47+02:00
 featured: false
 draft: false
 
@@ -27,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-04T14:23:21.695891Z'
+publishDate: '2022-09-27T12:50:47.318384Z'
 publication_types:
 - '7'
 abstract: ''

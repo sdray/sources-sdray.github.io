@@ -10,16 +10,16 @@ authors:
 - Vincent Miele
 - Stéphane Dray
 - Loïc Chalmandrier
-- Louise O'Connor
+- Louise O’Connor
 - Wilfried Thuiller
 tags:
-- '"hill numbers"'
-- '"interaction network diversity"'
-- '"metanetwork"'
-- '"species aggregation level"'
+- hill numbers
+- interaction network diversity
+- metanetwork
+- species aggregation level
 categories: []
 date: '2019-01-01'
-lastmod: 2020-10-22T20:41:18+02:00
+lastmod: 2022-09-27T14:50:50+02:00
 featured: false
 draft: false
 
@@ -37,22 +37,22 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-04T14:23:58.556560Z'
+publishDate: '2022-09-27T12:50:50.756463Z'
 publication_types:
 - '2'
 abstract: Describing how ecological interactions change over space and time and how
   they are shaped by environmental conditions is crucial to understand and predict
   ecosystem trajectories. However, it requires having an appropriate framework to
-  measure network diversity locally, regionally and between samples ($α$-, $γ$- and
-  $β$-diversity). Here, we propose a unifying framework that builds on Hill numbers
-  and accounts both for the probabilistic nature of biotic interactions and the abundances
-  of species or groups. We emphasise the importance of analysing network diversity
-  across different species aggregation levels (e.g. from species to trophic groups)
-  to get a better understanding of network structure. We illustrate our framework
-  with a simulation experiment and an empirical analysis using a global food-web database.
-  We discuss further usages of the framework and show how it responds to recent calls
-  on comparing ecological networks and analysing their variation across environmental
-  gradients and time.
+  measure network diversity locally, regionally and between samples (α‐, γ‐ and β‐diversity).
+  Here, we propose a unifying framework that builds on Hill numbers and accounts both
+  for the probabilistic nature of biotic interactions and the abundances of species
+  or groups. We emphasise the importance of analysing network diversity across different
+  species aggregation levels (e.g. from species to trophic groups) to get a better
+  understanding of network structure. We illustrate our framework with a simulation
+  experiment and an empirical analysis using a global food‐web database. We discuss
+  further usages of the framework and show how it responds to recent calls on comparing
+  ecological networks and analysing their variation across environmental gradients
+  and time.
 publication: '*Ecology Letters*'
 doi: 10.1111/ele.13221
 ---

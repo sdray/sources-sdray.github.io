@@ -26,7 +26,7 @@ authors:
 - Amy E Zanne
 - Jérôme Chave
 - S. Joseph Wright
-- Serge N. Sheremet'ev
+- Serge N. Sheremet’ev
 - Hervé Jactel
 - Christopher Baraloto
 - Bruno Cerabolini
@@ -43,7 +43,7 @@ authors:
 tags: []
 categories: []
 date: '2016-12-01'
-lastmod: 2020-10-22T20:41:07+02:00
+lastmod: 2022-09-27T14:50:46+02:00
 featured: false
 draft: false
 
@@ -61,12 +61,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-04T14:23:14.564690Z'
+publishDate: '2022-09-27T12:50:46.635547Z'
 publication_types:
 - '2'
 abstract: Earth is home to a remarkable diversity of plant forms and life histories,
   yet comparatively few essential trait combinations have proved evolutionarily viable
-  in today's terrestrial biosphere. By analysing worldwide variation in six major
+  in today’s terrestrial biosphere. By analysing worldwide variation in six major
   traits critical to growth, survival and reproduction within the largest sample of
   vascular plant species ever compiled, we found that occupancy of six-dimensional
   trait space is strongly concentrated, indicating coordination and trade-offs. Three-
@@ -79,4 +79,7 @@ abstract: Earth is home to a remarkable diversity of plant forms and life histor
   future vegetation based on continuous variation in plant form and function.
 publication: '*Nature*'
 doi: 10.1038/nature16489
+links:
+- name: URL
+  url: http://dx.doi.org/10.1038/nature16489
 ---

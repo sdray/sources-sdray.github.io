@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2010-01-01'
-lastmod: 2020-10-22T20:41:28+02:00
+lastmod: 2022-09-27T14:50:52+02:00
 featured: false
 draft: false
 
@@ -31,21 +31,21 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-04T14:24:19.016745Z'
+publishDate: '2022-09-27T12:50:52.640125Z'
 publication_types:
 - '2'
 abstract: Male choosiness for mates is an underexplored mechanism of sexual selection.
   A few theoretical studies suggest that males may exhibit -but only under rare circumstances-
   a reversed male mate choice (RMMC; i.e., highly competitive males focus on the most
-  fecund females, while the low-quality males exclusively pair with less fecund mates
+  fecund females, while the low‐quality males exclusively pair with less fecund mates
   to avoid being outcompeted by stronger rivals). Here we propose a new model to explore
   RMMC by relaxing some of the restrictive assumptions of the previous models and
   by considering an extended range of factors known to alter the strength of sexual
-  selection (males' investment in reproduction, difference of quality between females,
+  selection (males’ investment in reproduction, difference of quality between females,
   operational sex ratio). Unexpectedly, we found that males exhibited a reversed mate
   choice under a wide range of circumstances. RMMC mostly occurs when the female encounter
-  rate is high and males devote much of their time to breeding. This condition-dependent
-  strategy occurs even if there is no risk of injury during the male-male contest
+  rate is high and males devote much of their time to breeding. This condition‐dependent
+  strategy occurs even if there is no risk of injury during the male‐male contest
   or when the difference in quality between females is small. RMMC should thus be
   a widespread yet underestimated component of sexual selection and should largely
   contribute to the assortative pairing patterns observed in numerous taxa.

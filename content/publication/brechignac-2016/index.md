@@ -36,15 +36,15 @@ authors:
 - Per Strand
 - Hirofumi Tsukada
 tags:
-- '"Consensus development"'
-- '"Ecological risk assessment"'
-- '"Ecosystems"'
-- '"Environmental protection"'
-- '"Populations"'
-- '"Radiation effects"'
+- Consensus development
+- Ecological risk assessment
+- Ecosystems
+- Environmental protection
+- Populations
+- Radiation effects
 categories: []
 date: '2016-04-01'
-lastmod: 2020-10-22T20:41:05+02:00
+lastmod: 2022-09-27T14:50:45+02:00
 featured: false
 draft: false
 
@@ -62,7 +62,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-04T14:23:05.156837Z'
+publishDate: '2022-09-27T12:50:45.667370Z'
 publication_types:
 - '2'
 abstract: This paper reports the output of a consensus symposium organized by the
@@ -89,4 +89,7 @@ abstract: This paper reports the output of a consensus symposium organized by th
   approaches for efficient radiological protection of the environment.
 publication: '*Journal of Environmental Radioactivity*'
 doi: 10.1016/j.jenvrad.2016.03.021
+links:
+- name: URL
+  url: http://www.sciencedirect.com/science/article/pii/S0265931X16300832
 ---

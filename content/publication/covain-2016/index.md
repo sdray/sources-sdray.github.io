@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2016-01-01'
-lastmod: 2020-10-22T20:41:07+02:00
+lastmod: 2022-09-27T14:50:46+02:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-04T14:23:13.396587Z'
+publishDate: '2022-09-27T12:50:46.522074Z'
 publication_types:
 - '2'
 abstract: 'The Loricariinae belong to the Neotropical mailed catfish family Loricariidae,
@@ -58,4 +58,7 @@ abstract: 'The Loricariinae belong to the Neotropical mailed catfish family Lori
   the genus Proloricaria.'
 publication: '*Molecular Phylogenetics and Evolution*'
 doi: 10.1016/j.ympev.2015.10.018
+links:
+- name: URL
+  url: http://linkinghub.elsevier.com/retrieve/pii/S1055790315003218
 ---

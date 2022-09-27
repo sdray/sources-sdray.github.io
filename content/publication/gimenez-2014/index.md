@@ -32,7 +32,7 @@ authors:
 tags: []
 categories: []
 date: '2014-12-01'
-lastmod: 2020-10-22T20:41:14+02:00
+lastmod: 2022-09-27T14:50:49+02:00
 featured: false
 draft: false
 
@@ -50,7 +50,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-04T14:23:47.830296Z'
+publishDate: '2022-09-27T12:50:49.676406Z'
 publication_types:
 - '2'
 abstract: 'The desire to predict the consequences of global environmental change has
@@ -68,4 +68,7 @@ abstract: 'The desire to predict the consequences of global environmental change
   linking ecological theory and empirical data.'
 publication: '*Biology Letters*'
 doi: 10.1098/rsbl.2014.0698
+links:
+- name: URL
+  url: http://www.ncbi.nlm.nih.gov/pubmed/25540151
 ---
