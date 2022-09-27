@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-27T13:40:07.475424Z'
+publishDate: '2022-09-27T14:12:51.817293Z'
 publication_types:
 - '2'
 abstract: An important problem in principal component analysis (PCA) is the estimation

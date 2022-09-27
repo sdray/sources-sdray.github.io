@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-27T13:40:06.303202Z'
+publishDate: '2022-09-27T14:12:50.594262Z'
 publication_types:
 - '2'
 abstract: Fisher's principle states that natural selection favours an equal number

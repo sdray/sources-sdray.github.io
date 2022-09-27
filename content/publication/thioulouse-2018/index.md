@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-27T13:40:12.203388Z'
+publishDate: '2022-09-27T14:12:56.868308Z'
 publication_types:
 - '5'
 abstract: This book introduces the ade4 package for R which provides multivariate

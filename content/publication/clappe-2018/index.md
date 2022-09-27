@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-27T13:40:05.589885Z'
+publishDate: '2022-09-27T14:12:49.856684Z'
 publication_types:
 - '2'
 abstract: The methods of direct gradient analysis and variation partitioning are the

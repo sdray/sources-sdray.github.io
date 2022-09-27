@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-27T13:40:09.314418Z'
+publishDate: '2022-09-27T14:12:53.652823Z'
 publication_types:
 - '2'
 abstract: In many semi-arid savanna ecosystems, surface water is scarce and only found

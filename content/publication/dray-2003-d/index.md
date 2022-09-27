@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-27T13:40:06.831078Z'
+publishDate: '2022-09-27T14:12:51.137958Z'
 publication_types:
 - '2'
 abstract: Procrustes analysis is a method for fitting a set of points to another.

@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-27T13:40:10.357660Z'
+publishDate: '2022-09-27T14:12:54.875669Z'
 publication_types:
 - '2'
 abstract: Spatial ecological networks are widely used to model interactions between

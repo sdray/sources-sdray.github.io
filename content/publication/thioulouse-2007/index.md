@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-27T13:40:12.087336Z'
+publishDate: '2022-09-27T14:12:56.750220Z'
 publication_types:
 - '2'
 abstract: ade4 is a multivariate data analysis package for the R statistical environment,

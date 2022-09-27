@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-27T13:40:10.593715Z'
+publishDate: '2022-09-27T14:12:55.183165Z'
 publication_types:
 - '2'
 abstract: Describing how ecological interactions change over space and time and how

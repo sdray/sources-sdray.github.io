@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-27T13:40:06.709054Z'
+publishDate: '2022-09-27T14:12:51.016343Z'
 publication_types:
 - '2'
 abstract: Classical multivariate analyses are based on matrix algebra and enable the
